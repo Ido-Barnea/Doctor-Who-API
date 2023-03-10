@@ -2,9 +2,9 @@
     {
         "id": 1,
         "name": "",
-        "actor": 0,
-        "alternate_actors": [],
-        "doctors": [],
+        "actorId": 0,
+        "alternateActorsIds": [],
+        "doctorsIds": [],
         "series": [],
         "episodes": [],
         "image": ""
