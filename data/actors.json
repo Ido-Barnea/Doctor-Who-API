@@ -5,5 +5,110 @@
         "born": "08/01/1908",
         "died": "23/04/1975",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/William_Hartnell%2C_1946.jpg/220px-William_Hartnell%2C_1946.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Patrick Troughton",
+        "born": "25/03/1920",
+        "died": "28/03/1987",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Patrick_Troughton_in_1984%2C_1.jpg/220px-Patrick_Troughton_in_1984%2C_1.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Jon Pertwee",
+        "born": "07/07/1919",
+        "died": "20/05/1996",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Jon_Pertwee_%28filtered%29.jpg/220px-Jon_Pertwee_%28filtered%29.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Tom Baker",
+        "born": "20/01/1934",
+        "died": "",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Tom_Baker.jpg/220px-Tom_Baker.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Peter Davison",
+        "born": "13/04/1951",
+        "died": "",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Peter_Davison_2016.jpg/220px-Peter_Davison_2016.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Colin Baker",
+        "born": "08/06/1943",
+        "died": "",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Colin_Baker_%28cropped%29.jpg/220px-Colin_Baker_%28cropped%29.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Sylvester McCoy",
+        "born": "20/08/1943",
+        "died": "",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Sylvester_McCoy_2014_%28cropped%29.jpg/220px-Sylvester_McCoy_2014_%28cropped%29.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Paul McGann",
+        "born": "14/11/1959",
+        "died": "",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Paul_McGann_2015.jpg/220px-Paul_McGann_2015.jpg"
+    },
+    {
+        "id": 9,
+        "name": "John Hurt",
+        "born": "22/01/1940",
+        "died": "25/01/2017",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/John_Hurt_Cannes_2013.JPG/220px-John_Hurt_Cannes_2013.JPG"
+    },
+    {
+        "id": 10,
+        "name": "Christopher Eccleston",
+        "born": "16/02/1964",
+        "died": "",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Christopher_Eccleston_%2849243215143%29.jpg/220px-Christopher_Eccleston_%2849243215143%29.jpg"
+    },
+    {
+        "id": 11,
+        "name": "David Tennant",
+        "born": "18/04/1971",
+        "died": "",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/David_Tennant_%2848601852746%29.jpg/220px-David_Tennant_%2848601852746%29.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Matt Smith",
+        "born": "28/10/1982",
+        "died": "",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/SDCC_2015_-_Matt_Smith.jpg/220px-SDCC_2015_-_Matt_Smith.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Peter Capaldi",
+        "born": "14/04/1958",
+        "died": "",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Peter_Capaldi_%2848636861851%29.jpg/220px-Peter_Capaldi_%2848636861851%29.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Jodie Whittaker",
+        "born": "17/06/1982",
+        "died": "",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Jodie_Whittaker_by_Gage_Skidmore.jpg/220px-Jodie_Whittaker_by_Gage_Skidmore.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Ncuti Gatwa",
+        "born": "15/10/1992",
+        "died": "",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Ncuti_Gatwa%2C_Jan_2019_on_MTV_International_01.jpg/220px-Ncuti_Gatwa%2C_Jan_2019_on_MTV_International_01.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Richard Hurndall",
+        "born": "03/11/1910",
+        "died": "13/04/1984",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Actor_Richard_Hurndall.jpg/220px-Actor_Richard_Hurndall.jpg"
     }
 ]
