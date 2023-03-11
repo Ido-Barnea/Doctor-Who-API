@@ -110,5 +110,26 @@
         "born": "03/11/1910",
         "died": "13/04/1984",
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Actor_Richard_Hurndall.jpg/220px-Actor_Richard_Hurndall.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Billie Piper",
+        "born": "22/09/1982",
+        "died": "",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Billie_Piper_at_the_2019_Brussels_Comic_Con_%28cropped%29.jpg/220px-Billie_Piper_at_the_2019_Brussels_Comic_Con_%28cropped%29.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Noel Clarke",
+        "born": "06/12/1975",
+        "died": "",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Noel_Clarke_at_the_BAFTA_Film_Awards_2015.jpg/220px-Noel_Clarke_at_the_BAFTA_Film_Awards_2015.jpg"
+    },
+    {
+        "id": 19,
+        "name": "John Barrowman",
+        "born": "11/03/1967",
+        "died": "",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/John_Barrowman_by_Gage_Skidmore_2.jpg/220px-John_Barrowman_by_Gage_Skidmore_2.jpg"
     }
 ]
