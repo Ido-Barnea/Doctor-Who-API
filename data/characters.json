@@ -346,5 +346,89 @@
         "relationsWithTheDoctor": "Companion",
         "actors": ["John Bishop"],
         "image": "https://static.wikia.nocookie.net/tardis/images/9/94/Dan_Lewis_WttT.jpg/revision/latest/scale-to-width-down/350?cb=20211101022330"
+    },
+    {
+        "id": 30,
+        "name": "River Song",
+        "description": "Melody Pond's third incarnation, best known as Professor River Song, was a \"child of the TARDIS\" and the wife of the Doctor, specifically of their eleventh and twelfth incarnations. She was mostly human, with some Time Lord DNA, and was conceived by her parents, Amy Pond and Rory Williams, aboard the TARDIS as it travelled through the Time Vortex. She was then raised and conditioned by the Silence, who used her unique DNA to transform her into the first of several Proto-Time Lords, granting her great strength, a deep understanding of the complex principles of time and space, and the ability to regenerate. She loved the Doctor dearly, and shared a long-lasting relationship with them. River was one of the very few people who knew the Doctor's true name.",
+        "status": "Dead",
+        "species": "Human",
+        "gender": "Female",
+        "planet": "Earth",
+        "relationsWithTheDoctor": "Companion",
+        "actors": ["Alex Kingston"],
+        "image": "https://static.wikia.nocookie.net/tardis/images/e/e5/River_Looks_Left_LKH.jpg/revision/latest/scale-to-width-down/350?cb=20201011194939"
+    },
+    {
+        "id": 31,
+        "name": "Madame Vastra",
+        "description": "Madame Vastra, born Va'stra and formally Vastra of the Eastern Lands was a Silurian detective who shared a house at 13 Paternoster Row with Jenny Flint, her maid and eventual wife, in Victorian London. Alongside Jenny and the Sontaran nurse Strax, Vastra investigated unusual activities. Vastra employed Strax as a butler in London while Jenny became the maid to cover any possible gossip.",
+        "status": "Alive",
+        "species": "Silurian",
+        "gender": "Female",
+        "planet": "Earth",
+        "relationsWithTheDoctor": "Friend",
+        "actors": ["Neve McIntosh"],
+        "image": "https://static.wikia.nocookie.net/tardis/images/3/30/Vastra_angry_at_Strax_2.jpg/revision/latest/scale-to-width-down/350?cb=20211120181958"
+    },
+    {
+        "id": 32,
+        "name": "Jenny Flint",
+        "description": "Jennifer \"Jenny\" Flint (née Scarrity) was the human maid and wife of Madame Vastra. Operating from London in the late 19th century, the two performed a variety of investigations alongside their butler Strax, forming the so-called Paternoster Gang.",
+        "status": "Dead",
+        "species": "Human",
+        "gender": "Female",
+        "planet": "Earth",
+        "relationsWithTheDoctor": "Friend",
+        "actors": ["Catrin Stewart"],
+        "image": "https://static.wikia.nocookie.net/tardis/images/8/87/Jenny_Flint_Crop.jpg/revision/latest?cb=20211208213233"
+    },
+    {
+        "id": 33,
+        "name": "Alistair Gordon Lethbridge-Stewart",
+        "description": "Sir Alistair Gordon Lethbridge-Stewart, often called the Brigadier, was an important figure within UNIT. Through his work, he became a trusted ally of the Doctor, as well as a personal friend.",
+        "status": "Dead",
+        "species": "Human",
+        "gender": "Male",
+        "planet": "Earth",
+        "relationsWithTheDoctor": "Friend",
+        "actors": ["Nicholas Courtney"],
+        "image": "https://static.wikia.nocookie.net/tardis/images/0/05/BrigSeriousInvasion.jpg/revision/latest/scale-to-width-down/350?cb=20120605145021"
+    },
+    {
+        "id": 34,
+        "name": "Sarah Jane Smith",
+        "description": "Sarah Jane Smith, also known as Sarah Jane Morley in one account, was a companion of the Third and Fourth Doctors.",
+        "status": "Alive",
+        "species": "Human",
+        "gender": "Female",
+        "planet": "Earth",
+        "relationsWithTheDoctor": "Friend",
+        "actors": ["Elisabeth Sladen", "Jessica Ashworth", "Jessica Mogridge"],
+        "image": "https://static.wikia.nocookie.net/tardis/images/7/7f/SarahJaneSmirkTHOF.jpg/revision/latest/scale-to-width-down/350?cb=20130920034858"
+    },
+    {
+        "id": 35,
+        "name": "K9",
+        "description": "K9 was the designation given to a series of intelligent, dog-like robots who served as companions of Professor Marius, the Fourth Doctor, Leela, Romana, the Mistress, Sarah Jane Smith and others.",
+        "status": "Alive",
+        "species": "Robot",
+        "gender": "Unknown",
+        "planet": "Earth",
+        "relationsWithTheDoctor": "Friend",
+        "actors": ["John Leeson", "Roy Skelton", "David Brierley"],
+        "image": "https://static.wikia.nocookie.net/tardis/images/a/a0/K9_in_the_TARDIS.jpg/revision/latest/scale-to-width-down/350?cb=20130701231916"
+    },
+    {
+        "id": 36,
+        "name": "Jackie Tyler",
+        "description": "Jacqueline Andrea Suzette Tyler, often called just Jackie, born 1 February 1967, was the mother of Rose Tyler. She lived with Rose in a council flat on the Powell Estate. Widowed following the death of her husband, Jackie was a single mother.",
+        "status": "Alive",
+        "species": "Human",
+        "gender": "Female",
+        "planet": "Earth",
+        "relationsWithTheDoctor": "Friend",
+        "actors": ["Camille Coduri"],
+        "image": "https://static.wikia.nocookie.net/tardis/images/6/64/Jackie_drinks_tea_%28L%26M%29.jpg/revision/latest/scale-to-width-down/350?cb=20180811222314"
     }
 ]
