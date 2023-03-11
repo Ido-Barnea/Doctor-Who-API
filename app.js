@@ -8,7 +8,7 @@ const characters = require('./data/characters.json');
 
 app.get('/', (req, res) => {
     res.status(200).json({
-        'Characters': characters
+        'Characters': 'https://doctorwhoapi.cyclic.app/characters'
     });
 });
 
