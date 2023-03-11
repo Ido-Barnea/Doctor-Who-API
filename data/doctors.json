@@ -10,7 +10,6 @@
         "alliesIds": [],
         "villainsIds": [],
         "series": [1, 2, 3, 4],
-        "episodes": [],
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/First_Doctor_%28Doctor_Who%29.jpg/220px-First_Doctor_%28Doctor_Who%29.jpg"
     },
     {
@@ -24,7 +23,6 @@
         "alliesIds": [],
         "villainsIds": [],
         "series": [4, 5, 6],
-        "episodes": [],
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Second_Doctor_%28Doctor_Who%29.jpg/220px-Second_Doctor_%28Doctor_Who%29.jpg"
     },
     {
@@ -38,7 +36,6 @@
         "alliesIds": [],
         "villainsIds": [],
         "series": [7, 8, 9, 10, 11],
-        "episodes": [],
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/81/Third_Doctor_%28Doctor_Who%29.jpg/220px-Third_Doctor_%28Doctor_Who%29.jpg"
     },
     {
@@ -52,7 +49,6 @@
         "alliesIds": [],
         "villainsIds": [],
         "series": [12, 13, 14, 15, 16, 17, 18],
-        "episodes": [],
         "image": "https://upload.wikimedia.org/wikipedia/en/6/65/Fourth_Doctor_%28Doctor_Who%29.jpg"
     },
     {
@@ -66,7 +62,6 @@
         "alliesIds": [],
         "villainsIds": [],
         "series": [19, 20, 21],
-        "episodes": [],
         "image": "https://upload.wikimedia.org/wikipedia/en/7/78/Fifth_Doctor_%28Doctor_Who%29.jpg"
     },
     {
@@ -80,7 +75,6 @@
         "alliesIds": [],
         "villainsIds": [],
         "series": [21, 22, 23],
-        "episodes": [],
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Sixth_Doctor_%28Doctor_Who%29.jpg/220px-Sixth_Doctor_%28Doctor_Who%29.jpg"
     },
     {
@@ -94,7 +88,6 @@
         "alliesIds": [],
         "villainsIds": [],
         "series": [24, 25, 26],
-        "episodes": [],
         "image": "https://upload.wikimedia.org/wikipedia/en/8/89/Seventh_Doctor_%28Doctor_Who%29.jpg"
     },
     {
@@ -108,7 +101,6 @@
         "alliesIds": [],
         "villainsIds": [],
         "series": [],
-        "episodes": [],
         "image": "https://upload.wikimedia.org/wikipedia/en/a/a1/Eighth_Doctor_%28Doctor_Who%29_%28cropped%29.jpg"
     },
     {
@@ -122,7 +114,6 @@
         "alliesIds": [],
         "villainsIds": [],
         "series": [],
-        "episodes": [],
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/War_Doctor_%28Doctor_Who%29.jpg/220px-War_Doctor_%28Doctor_Who%29.jpg"
     },
     {
@@ -136,7 +127,6 @@
         "alliesIds": [],
         "villainsIds": [],
         "series": [1],
-        "episodes": [],
         "image": "https://upload.wikimedia.org/wikipedia/en/e/ec/Ninth_Doctor_%28Doctor_Who%29.jpg"
     },
     {
@@ -150,7 +140,6 @@
         "alliesIds": [],
         "villainsIds": [],
         "series": [2, 3, 4],
-        "episodes": [],
         "image": "https://upload.wikimedia.org/wikipedia/en/2/21/Tenth_Doctor_%28Doctor_Who%29.jpg"
     },
     {
@@ -164,7 +153,6 @@
         "alliesIds": [],
         "villainsIds": [],
         "series": [5, 6, 7],
-        "episodes": [],
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Eleventh_Doctor_%28Doctor_Who%29.jpg/220px-Eleventh_Doctor_%28Doctor_Who%29.jpg"
     },
     {
@@ -178,7 +166,6 @@
         "alliesIds": [],
         "villainsIds": [],
         "series": [8, 9, 10],
-        "episodes": [],
         "image": "https://upload.wikimedia.org/wikipedia/en/e/ec/Twelfth_Doctor_%28Doctor_Who%29.jpg"
     },
     {
@@ -192,7 +179,6 @@
         "alliesIds": [],
         "villainsIds": [],
         "series": [11, 12, 13],
-        "episodes": [],
         "image": "https://upload.wikimedia.org/wikipedia/en/a/a2/Thirteenth_Doctor_%28Doctor_Who%29.jpg"
     },
     {
@@ -206,7 +192,6 @@
         "alliesIds": [],
         "villainsIds": [],
         "series": [],
-        "episodes": [],
         "image": "https://upload.wikimedia.org/wikipedia/en/2/29/Fourteenth_Doctor_%28Doctor_Who%29.jpg"
     },
     {
@@ -220,7 +205,6 @@
         "alliesIds": [],
         "villainsIds": [],
         "series": [],
-        "episodes": [],
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Fifteenth_Doctor_%28Doctor_Who%29.jpg/220px-Fifteenth_Doctor_%28Doctor_Who%29.jpg"
     }
 ]

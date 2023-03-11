@@ -1,13 +1,12 @@
 [
     {
-        "id": 1,
+        "id": 0,
         "name": "",
         "description": "",
         "actorId": 0,
         "alternateActorsIds": [],
         "doctorsIds": [],
         "series": [],
-        "episodes": [],
         "image": ""
     }
 ]
