@@ -1,13 +1,10 @@
 [
     {
         "id": 1,
-        "name": "",
-        "description": "",
-        "actorId": 0,
-        "alternateActorsIds": [],
-        "doctorsIds": [],
+        "name": "Daleks",
+        "description": "The Daleks were a warrior race made up of genetically engineered mutants belonging to fundamental DNA type 467-989. By most accounts they were originally from the planet Skaro. The mutants were encased inside an armoured travel machine built from polycarbide and the metal Dalekanium. The Daleks are one of the oldest and most dangerous of the Doctor's enemies.",
+        "doctorsIds": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
         "series": [],
-        "episodes": [],
-        "image": ""
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/At_Sudbury_Hall_2023_005.jpg/220px-At_Sudbury_Hall_2023_005.jpg"
     }
 ]
