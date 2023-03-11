@@ -430,5 +430,53 @@
         "relationsWithTheDoctor": "Friend",
         "actors": ["Camille Coduri"],
         "image": "https://static.wikia.nocookie.net/tardis/images/6/64/Jackie_drinks_tea_%28L%26M%29.jpg/revision/latest/scale-to-width-down/350?cb=20180811222314"
+    },
+    {
+        "id": 37,
+        "name": "Astrid Peth",
+        "description": "Astrid Peth was a native of the planet Sto who worked as a waitress aboard the Titanic. She was a potential companion to the Tenth Doctor.",
+        "status": "Dead",
+        "species": "Humanoid",
+        "gender": "Female",
+        "planet": "Sto",
+        "relationsWithTheDoctor": "Friend",
+        "actors": ["Kylie Minogue"],
+        "image": "https://static.wikia.nocookie.net/tardis/images/7/76/Astrid_starstruck_%28VOTD%29.jpg/revision/latest/scale-to-width-down/350?cb=20181111011418"
+    },
+    {
+        "id": 38,
+        "name": "Jackson Lake",
+        "description": "Jackson Lake was a 19th century mathematics teacher who briefly believed himself to be an incarnation of the Doctor, but in reality, had his memories altered by a Cyberman infostamp. As the real Doctor told him, the Infostamp that backfired, and made him believe he was the Doctor, only gave him information about the Doctor; all the bravery and his invention of a different kind of TARDIS, were things he was capable of doing on his own.",
+        "status": "Alive",
+        "species": "Human",
+        "gender": "Male",
+        "planet": "Earth",
+        "relationsWithTheDoctor": "Friend",
+        "actors": ["David Morrissey"],
+        "image": "https://static.wikia.nocookie.net/tardis/images/3/37/JacksonLake1.jpg/revision/latest/scale-to-width-down/350?cb=20120314174801"
+    },
+    {
+        "id": 39,
+        "name": "Christina de Souza",
+        "description": "Lady Christina de Souza was a friend of the Tenth and Eleventh Doctors, and had brief adventures with them both. A minor British aristocrat, she was also a thief, Burglar, and an adrenaline junkie who stole more for the thrill than for money.",
+        "status": "Alive",
+        "species": "Human",
+        "gender": "Female",
+        "planet": "Earth",
+        "relationsWithTheDoctor": "Friend",
+        "actors": ["Michelle Ryan"],
+        "image": "https://static.wikia.nocookie.net/tardis/images/5/55/ChristinaInBus.jpg/revision/latest/scale-to-width-down/350?cb=20130224044035"
+    },
+    {
+        "id": 40,
+        "name": "Adelaide Brooke",
+        "description": "Captain Adelaide Brooke, was briefly a companion of the Tenth Doctor. During the Daleks' attempt to destroy reality, she ended up being orphaned when both of her parents never returned home. She was raised by her grandmother afterwards and, as the years passed, eventually became a mother and grandmother herself. She was commander of Bowie Base One on Mars in the late 2050s.",
+        "status": "Dead",
+        "species": "Human",
+        "gender": "Female",
+        "planet": "Earth",
+        "relationsWithTheDoctor": "Neutral",
+        "actors": ["Lindsay Duncan", "Rachel Fewell"],
+        "image": "https://static.wikia.nocookie.net/tardis/images/9/94/Adelaide_Brooke.jpg/revision/latest/scale-to-width-down/350?cb=20140127054621"
     }
 ]
