@@ -1,0 +1,13 @@
+character:
+{
+    "id": 0,
+    "name": "", [Character's Full Name]
+    "description": "", [A few sentences describing the character]
+    "status": "", [Alive / Dead / Unknown]
+    "species": "", [Species Name]
+    "gender": "", [Male / Female / Unknown]
+    "planet": "", [Planet URL]
+    "relationsWithTheDoctor": "", [Companion / Friend / Foe / Neutral / Self]
+    "actors": [], [Actor Full Name]
+    "image": "" [Image URL]
+}

@@ -1,99 +1,47 @@
 const express = require('express');
 const app = express();
 
-const SUCCESS_STATUS_CODE = 200;
-const NOT_FOUND_STATUS_CODE = 404;
+module.exports = app;
 
-const actors = require('./data/actors.json');
-const showrunners = require('./data/showrunners.json');
-const doctors = require('./data/doctors.json');
-const companions = require('./data/companions.json');
-const allies = require('./data/allies.json');
-const villains = require('./data/villains.json');
 
-function retrieveItemFromJSON(id, json) {
-    // Check if id is within array length.
-    if (0 <= id && id < json.length) {
-        // If so, return an array with two values:
-        // (1) HTTP Response Status Code.
-        // (2) The desired JSON.
-        return [SUCCESS_STATUS_CODE, json[id]];
-    } else {
-        // If not, return an array with two values:
-        // (1) HTTP Response Status Code.
-        // (2) An error message.
-        return [NOT_FOUND_STATUS_CODE, "Error: Invalid id."];
+const characters = require('./data/characters.json');
+
+app.get('/', (req, res) => {
+    res.status(200).json('Doctor Who API');
+});
+
+app.get('/characters', (req, res) => {
+    const query = req.query;
+    let isValid = true;
+    const filteredCharacters = characters.filter(character => {
+        const validationResponse = validateQuery(character, query);
+        if (validationResponse.code) {
+            isValid = false;
+            res.status(validationResponse.code).json(validationResponse.error);
+        }
+
+        return validationResponse.response;
+    });
+
+    if (isValid) res.status(200).json(filteredCharacters);
+});
+
+
+class QueryResponse {
+    constructor(response, code, error) {
+        this.response = response;
+        this.code = code;
+        this.error = error;
     }
 }
 
-app.get('/', (req, res) => {
-    res.status(SUCCESS_STATUS_CODE).json('Doctor Who API')
-});
+function validateQuery(character, query) {
+    for (key in query) {
+        // Return false and Bad Request error code if key doesn't exist.
+        if (!(key in character)) return new QueryResponse(false, 400, "Unknown Filter.");
+        // Return false if key values don't match.
+        if (character[key] != query[key]) return new QueryResponse(false, null, null);
+    }
 
-
-
-app.get('/actors', (req, res) => {
-    res.status(SUCCESS_STATUS_CODE).json(actors);
-});
-
-app.get('/actors/:id', (req, res) => {
-    let values = retrieveItemFromJSON(req.params.id - 1, actors);
-    res.status(values[0]).json(values[1]);
-});
-
-
-
-app.get('/showrunners', (req, res) => {
-    res.status(SUCCESS_STATUS_CODE).json(showrunners);
-});
-
-app.get('/showrunners/:id', (req, res) => {
-    let values = retrieveItemFromJSON(req.params.id - 1, showrunners);
-    res.status(values[0]).json(values[1]);
-});
-
-
-
-app.get('/doctors', (req, res) => {
-    res.status(SUCCESS_STATUS_CODE).json(doctors);
-});
-
-app.get('/doctors/:id', (req, res) => {
-    let values = retrieveItemFromJSON(req.params.id - 1, doctors);
-    res.status(values[0]).json(values[1]);
-});
-
-
-
-app.get('/companions', (req, res) => {
-    res.status(SUCCESS_STATUS_CODE).json(companions);
-});
-
-app.get('/companions/:id', (req, res) => {
-    let values = retrieveItemFromJSON(req.params.id - 1, companions);
-    res.status(values[0]).json(values[1]);
-});
-
-
-
-app.get('/allies', (req, res) => {
-    res.status(SUCCESS_STATUS_CODE).json(allies);
-});
-
-app.get('/allies/:id', (req, res) => {
-    let values = retrieveItemFromJSON(req.params.id - 1, allies);
-    res.status(values[0]).json(values[1]);
-});
-
-
-
-app.get('/villains', (req, res) => {
-    res.status(SUCCESS_STATUS_CODE).json(villains);
-});
-
-app.get('/villains/:id', (req, res) => {
-    let values = retrieveItemFromJSON(req.params.id - 1, villains);
-    res.status(values[0]).json(values[1]);
-});
-
-module.exports = app;
+    return new QueryResponse(true, null, null);
+}
