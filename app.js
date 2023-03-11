@@ -7,7 +7,9 @@ module.exports = app;
 const characters = require('./data/characters.json');
 
 app.get('/', (req, res) => {
-    res.status(200).json('Doctor Who API');
+    res.status(200).json({
+        'Characters': characters
+    });
 });
 
 app.get('/characters', (req, res) => {
