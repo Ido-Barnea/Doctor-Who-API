@@ -6,8 +6,27 @@ character:
     "status": "", [Alive / Dead / Unknown]
     "species": "", [Species Name]
     "gender": "", [Male / Female / Unknown]
-    "planet": "", [Planet URL]
+    "planetOfOrigin": "", [Planet URL]
     "relationsWithTheDoctor": "", [Companion / Friend / Foe / Neutral / Self]
     "actors": [], [Actor Full Name]
+    "image": "" [Image URL]
+}
+
+species:
+{
+    "id": 0,
+    "name": "", [Species's Name]
+    "description": "", [A few sentences describing the species]
+    "planetOfOrigin": "", [Planet URL]
+    "relationsWithTheDoctor": "", [Friend / Foe / Neutral]
+    "image": "" [Image URL]
+}
+
+planet:
+{
+    "id": 0,
+    "name": "", [Planet's Name]
+    "description": "", [A few sentences describing the planet]
+    "moons": [], [Names of the planet's moons]
     "image": "" [Image URL]
 }
