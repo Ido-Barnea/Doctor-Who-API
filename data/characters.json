@@ -610,5 +610,77 @@
         "relationsWithTheDoctor": "Friend",
         "actors": ["Tony Curran"],
         "image": "https://static.wikia.nocookie.net/tardis/images/0/0b/Vincent_and_the_Doctor_Painting.jpg/revision/latest/scale-to-width-down/350?cb=20170721145104"
+    },
+    {
+        "id": 51,
+        "name": "Jo Grant",
+        "description": "Josephine Jones, also known as Jo, was a companion of the Third Doctor.",
+        "status": "Alive",
+        "species": "Human", 
+        "gender": "Female",
+        "planetOfOrigin": "Earth",
+        "relationsWithTheDoctor": "Companion",
+        "actors": ["Katy Manning"],
+        "image": "https://static.wikia.nocookie.net/tardis/images/4/4b/Jo_Grant_close.jpg/revision/latest/scale-to-width-down/350?cb=20130218001430"
+    },
+    {
+        "id": 52,
+        "name": "Ace",
+        "description": "Ace was a companion of the Seventh Doctor. Her real name was either Dorothy Gale or Dorothy Gale McShane.",
+        "status": "Alive",
+        "species": "Human", 
+        "gender": "Female",
+        "planetOfOrigin": "Earth",
+        "relationsWithTheDoctor": "Companion",
+        "actors": ["Sophie Aldred"],
+        "image": "https://static.wikia.nocookie.net/tardis/images/5/56/AceCloseUpLookLeftSurvival.jpg/revision/latest/scale-to-width-down/350?cb=20120511031037"
+    },
+    {
+        "id": 53,
+        "name": "Peri Brown",
+        "description": "Perpugilliam Brown, also known as Peri, was a companion of the Fifth and Sixth Doctors, as well as a temporary companion to the Second Doctor during an encounter with Dastari.",
+        "status": "Dead",
+        "species": "Human", 
+        "gender": "Female",
+        "planetOfOrigin": "Earth",
+        "relationsWithTheDoctor": "Companion",
+        "actors": ["Nicola Bryant"],
+        "image": "https://static.wikia.nocookie.net/tardis/images/e/e2/PeriSmilesLeftPOF.jpg/revision/latest/scale-to-width-down/350?cb=20130623000046"
+    },
+    {
+        "id": 54,
+        "name": "Adric",
+        "description": "Adric was a companion of the Fourth and Fifth Doctors.",
+        "status": "Dead",
+        "species": "Alzarian", 
+        "gender": "Male",
+        "planetOfOrigin": "Alzarius",
+        "relationsWithTheDoctor": "Companion",
+        "actors": ["Matthew Waterhouse"],
+        "image": "https://static.wikia.nocookie.net/tardis/images/f/fd/Adric_smiling.jpg/revision/latest/scale-to-width-down/350?cb=20211128052430"
+    },
+    {
+        "id": 55,
+        "name": "Ian Chesterton",
+        "description": "Sir Ian Francis Chesterton, Knight of Jaffa, was a companion of the First Doctor.",
+        "status": "Alive",
+        "species": "Human", 
+        "gender": "Male",
+        "planetOfOrigin": "Earth",
+        "relationsWithTheDoctor": "Companion",
+        "actors": ["William Russell"],
+        "image": "https://static.wikia.nocookie.net/tardis/images/5/51/IanHaggardAUC.jpg/revision/latest/scale-to-width-down/350?cb=20131029032257"
+    },
+    {
+        "id": 56,
+        "name": "Vislor Turlough",
+        "description": "Junior Ensign Commander Vislor Turlough was a companion of the Fifth Doctor.",
+        "status": "Alive",
+        "species": "Trion", 
+        "gender": "Male",
+        "planetOfOrigin": "Trion",
+        "relationsWithTheDoctor": "Companion",
+        "actors": ["Mark Strickson"],
+        "image": "https://static.wikia.nocookie.net/tardis/images/8/8a/Turlough.jpg/revision/latest/scale-to-width-down/350?cb=20210115185114"
     }
 ]
