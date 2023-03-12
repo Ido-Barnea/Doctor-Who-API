@@ -1,0 +1,18 @@
+# Doctor-Who-API :large_blue_diamond:
+An API for information about the Doctor Who universe.
+
+<img src="https://wallpapercave.com/wp/4CGjOpV.jpg">
+<br>
+
+## Website :computer:
+Feel free to visit our website on https://doctorwhoapi.cyclic.app.
+
+Visit https://doctorwhoapi.cyclic.app/api for the Doctor Who API.
+
+## Contribute :gift:
+We are happy for any and all contributions to the project.
+
+Here is a list of things you can do to help:
+- [ ] Add characters (e.g. The Doctor / Donna Noble / etc.).
+- [ ] Add species (e.g. Daleks / Cybermen / etc.).
+- [ ] Add planets (e.g. Earth / Gallifrey / etc.).
