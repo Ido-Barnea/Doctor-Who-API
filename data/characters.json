@@ -682,5 +682,41 @@
         "relationsWithTheDoctor": "Companion",
         "actors": ["Mark Strickson"],
         "image": "https://static.wikia.nocookie.net/tardis/images/8/8a/Turlough.jpg/revision/latest/scale-to-width-down/350?cb=20210115185114"
+    },
+    {
+        "id": 57,
+        "name": "Vicki Pallister",
+        "description": "Vicki Pallister was a companion of the First Doctor.",
+        "status": "Alive",
+        "species": "Human", 
+        "gender": "Female",
+        "planetOfOrigin": "Earth",
+        "relationsWithTheDoctor": "Companion",
+        "actors": ["Maureen O'Brien"],
+        "image": "https://static.wikia.nocookie.net/tardis/images/b/b4/Vicki_looks_left_The_Rescue.jpg/revision/latest/scale-to-width-down/350?cb=20150802191139"
+    },
+    {
+        "id": 58,
+        "name": "Nyssa",
+        "description": "Nyssa, also known as Nyssa of Traken, was a companion of the Fourth and Fifth Doctors.",
+        "status": "Alive",
+        "species": "Trakenite", 
+        "gender": "Female",
+        "planetOfOrigin": "Traken",
+        "relationsWithTheDoctor": "Companion",
+        "actors": ["Sarah Sutton", "Lucy Baker"],
+        "image": "https://static.wikia.nocookie.net/tardis/images/6/64/NyssaInAmsterdam.jpg/revision/latest/scale-to-width-down/350?cb=20120327033736"
+    },
+    {
+        "id": 59,
+        "name": "Romana",
+        "description": "Romanadvoratrelundar — known in short as Romana — was a Time Lord who was assigned the task to assist the Fourth Doctor in his quest for the Key to Time.",
+        "status": "Dead",
+        "species": "Time Lord", 
+        "gender": "Female",
+        "planetOfOrigin": "Gallifrey",
+        "relationsWithTheDoctor": "Companion",
+        "actors": ["Lalla Ward", "Mary Tamm", "Yvonne Gallagher", "Lee Richards", "Maggy Armitage", "Liv Spencer"],
+        "image": "https://static.wikia.nocookie.net/tardis/images/d/d9/Romanapic1.jpg/revision/latest/scale-to-width-down/350?cb=20140508160140"
     }
 ]
