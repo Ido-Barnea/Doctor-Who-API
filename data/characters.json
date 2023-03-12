@@ -6,7 +6,7 @@
         "status": "Dead",
         "species": "Time Lord",
         "gender": "Male",
-        "planet": "Gallifrey",
+        "planetOfOrigin": "Gallifrey",
         "relationsWithTheDoctor": "Self",
         "actors": ["William Hartnell", "Richard Hurndall"],
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/First_Doctor_%28Doctor_Who%29.jpg/220px-First_Doctor_%28Doctor_Who%29.jpg"
@@ -18,7 +18,7 @@
         "status": "Dead",
         "species": "Time Lord",
         "gender": "Male",
-        "planet": "Gallifrey",
+        "planetOfOrigin": "Gallifrey",
         "relationsWithTheDoctor": "Self",
         "actors": ["Patrick Troughton"],
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Second_Doctor_%28Doctor_Who%29.jpg/220px-Second_Doctor_%28Doctor_Who%29.jpg"
@@ -30,7 +30,7 @@
         "status": "Dead",
         "species": "Time Lord",
         "gender": "Male",
-        "planet": "Gallifrey",
+        "planetOfOrigin": "Gallifrey",
         "relationsWithTheDoctor": "Self",
         "actors": ["Jon Pertwee"],
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/81/Third_Doctor_%28Doctor_Who%29.jpg/220px-Third_Doctor_%28Doctor_Who%29.jpg"
@@ -42,7 +42,7 @@
         "status": "Dead",
         "species": "Time Lord",
         "gender": "Male",
-        "planet": "Gallifrey",
+        "planetOfOrigin": "Gallifrey",
         "relationsWithTheDoctor": "Self",
         "actors": ["Tom Baker"],
         "image": "https://upload.wikimedia.org/wikipedia/en/6/65/Fourth_Doctor_%28Doctor_Who%29.jpg"
@@ -54,7 +54,7 @@
         "status": "Dead",
         "species": "Time Lord",
         "gender": "Male",
-        "planet": "Gallifrey",
+        "planetOfOrigin": "Gallifrey",
         "relationsWithTheDoctor": "Self",
         "actors": ["Peter Davison"],
         "image": "https://upload.wikimedia.org/wikipedia/en/7/78/Fifth_Doctor_%28Doctor_Who%29.jpg"
@@ -66,7 +66,7 @@
         "status": "Dead",
         "species": "Time Lord",
         "gender": "Male",
-        "planet": "Gallifrey",
+        "planetOfOrigin": "Gallifrey",
         "relationsWithTheDoctor": "Self",
         "actors": ["Colin Baker"],
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Sixth_Doctor_%28Doctor_Who%29.jpg/220px-Sixth_Doctor_%28Doctor_Who%29.jpg"
@@ -78,7 +78,7 @@
         "status": "Dead",
         "species": "Time Lord",
         "gender": "Male",
-        "planet": "Gallifrey",
+        "planetOfOrigin": "Gallifrey",
         "relationsWithTheDoctor": "Self",
         "actors": ["Sylvester McCoy"],
         "image": "https://upload.wikimedia.org/wikipedia/en/8/89/Seventh_Doctor_%28Doctor_Who%29.jpg"
@@ -90,7 +90,7 @@
         "status": "Dead",
         "species": "Time Lord",
         "gender": "Male",
-        "planet": "Gallifrey",
+        "planetOfOrigin": "Gallifrey",
         "relationsWithTheDoctor": "Self",
         "actors": ["Paul McGann"],
         "image": "https://upload.wikimedia.org/wikipedia/en/a/a1/Eighth_Doctor_%28Doctor_Who%29_%28cropped%29.jpg"
@@ -102,7 +102,7 @@
         "status": "Dead",
         "species": "Time Lord",
         "gender": "Male",
-        "planet": "Gallifrey",
+        "planetOfOrigin": "Gallifrey",
         "relationsWithTheDoctor": "Self",
         "actors": ["John Hurt"],
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/War_Doctor_%28Doctor_Who%29.jpg/220px-War_Doctor_%28Doctor_Who%29.jpg"
@@ -114,7 +114,7 @@
         "status": "Dead",
         "species": "Time Lord",
         "gender": "Male",
-        "planet": "Gallifrey",
+        "planetOfOrigin": "Gallifrey",
         "relationsWithTheDoctor": "Self",
         "actors": ["Christopher Eccleston"],
         "image": "https://upload.wikimedia.org/wikipedia/en/e/ec/Ninth_Doctor_%28Doctor_Who%29.jpg"
@@ -126,7 +126,7 @@
         "status": "Dead",
         "species": "Time Lord",
         "gender": "Male",
-        "planet": "Gallifrey",
+        "planetOfOrigin": "Gallifrey",
         "relationsWithTheDoctor": "Self",
         "actors": ["David Tennant"],
         "image": "https://upload.wikimedia.org/wikipedia/en/2/21/Tenth_Doctor_%28Doctor_Who%29.jpg"
@@ -138,7 +138,7 @@
         "status": "Dead",
         "species": "Time Lord",
         "gender": "Male",
-        "planet": "Gallifrey",
+        "planetOfOrigin": "Gallifrey",
         "relationsWithTheDoctor": "Self",
         "actors": ["Matt Smith"],
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Eleventh_Doctor_%28Doctor_Who%29.jpg/220px-Eleventh_Doctor_%28Doctor_Who%29.jpg"
@@ -150,7 +150,7 @@
         "status": "Dead",
         "species": "Time Lord",
         "gender": "Male",
-        "planet": "Gallifrey",
+        "planetOfOrigin": "Gallifrey",
         "relationsWithTheDoctor": "Self",
         "actors": ["Peter Capaldi"],
         "image": "https://upload.wikimedia.org/wikipedia/en/e/ec/Twelfth_Doctor_%28Doctor_Who%29.jpg"
@@ -162,7 +162,7 @@
         "status": "Dead",
         "species": "Time Lord",
         "gender": "Female",
-        "planet": "Gallifrey",
+        "planetOfOrigin": "Gallifrey",
         "relationsWithTheDoctor": "Self",
         "actors": ["Jodie Whittaker"],
         "image": "https://upload.wikimedia.org/wikipedia/en/a/a2/Thirteenth_Doctor_%28Doctor_Who%29.jpg"
@@ -174,7 +174,7 @@
         "status": "Dead",
         "species": "Time Lord",
         "gender": "Male",
-        "planet": "Gallifrey",
+        "planetOfOrigin": "Gallifrey",
         "relationsWithTheDoctor": "Self",
         "actors": ["David Tennant"],
         "image": "https://upload.wikimedia.org/wikipedia/en/2/29/Fourteenth_Doctor_%28Doctor_Who%29.jpg"
@@ -186,7 +186,7 @@
         "status": "Alive",
         "species": "Time Lord",
         "gender": "Male",
-        "planet": "Gallifrey",
+        "planetOfOrigin": "Gallifrey",
         "relationsWithTheDoctor": "Self",
         "actors": ["Ncuti Gatwa"],
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Fifteenth_Doctor_%28Doctor_Who%29.jpg/220px-Fifteenth_Doctor_%28Doctor_Who%29.jpg"
@@ -198,7 +198,7 @@
         "status": "Alive",
         "species": "Human",
         "gender": "Female",
-        "planet": "Earth",
+        "planetOfOrigin": "Earth",
         "relationsWithTheDoctor": "Companion",
         "actors": ["Billie Piper"],
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Rose_Tyler.jpg/220px-Rose_Tyler.jpg"
@@ -210,7 +210,7 @@
         "status": "Alive",
         "species": "Human",
         "gender": "Male",
-        "planet": "Earth",
+        "planetOfOrigin": "Earth",
         "relationsWithTheDoctor": "Companion",
         "actors": ["Noel Clarke"],
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Mickey_Smith.jpg/175px-Mickey_Smith.jpg"
@@ -222,7 +222,7 @@
         "status": "Alive",
         "species": "Human",
         "gender": "Male",
-        "planet": "Boeshane Peninsula",
+        "planetOfOrigin": "Boeshane Peninsula",
         "relationsWithTheDoctor": "Companion",
         "actors": ["John Barrowman"],
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Jack_Harkness.jpg/220px-Jack_Harkness.jpg"
@@ -234,7 +234,7 @@
         "status": "Alive",
         "species": "Human",
         "gender": "Female",
-        "planet": "Earth",
+        "planetOfOrigin": "Earth",
         "relationsWithTheDoctor": "Companion",
         "actors": ["Catherine Tate"],
         "image": "https://static.wikia.nocookie.net/tardis/images/4/47/DonnaNobleTL.jpg/revision/latest/scale-to-width-down/350?cb=20131212013358"
@@ -246,7 +246,7 @@
         "status": "Alive",
         "species": "Human",
         "gender": "Female",
-        "planet": "Earth",
+        "planetOfOrigin": "Earth",
         "relationsWithTheDoctor": "Companion",
         "actors": ["Freema Agyeman"],
         "image": "https://static.wikia.nocookie.net/tardis/images/d/d9/MarthaAfter42.jpg/revision/latest/scale-to-width-down/350?cb=20191010171632"
@@ -258,7 +258,7 @@
         "status": "Dead",
         "species": "Human",
         "gender": "Female",
-        "planet": "Earth",
+        "planetOfOrigin": "Earth",
         "relationsWithTheDoctor": "Companion",
         "actors": ["Karen Gillan", "Caitlin Blackwood"],
         "image": "https://static.wikia.nocookie.net/tardis/images/c/c4/Amy_Geronimo.jpg/revision/latest/scale-to-width-down/350?cb=20120909215453"
@@ -270,7 +270,7 @@
         "status": "Dead",
         "species": "Human",
         "gender": "Male",
-        "planet": "Earth",
+        "planetOfOrigin": "Earth",
         "relationsWithTheDoctor": "Companion",
         "actors": ["Arthur Darvill", "Ezekiel Wigglesworth"],
         "image": "https://static.wikia.nocookie.net/tardis/images/a/af/Rory_AoD.jpg/revision/latest?cb=20121010030052"
@@ -282,7 +282,7 @@
         "status": "Dead",
         "species": "Human",
         "gender": "Female",
-        "planet": "Earth",
+        "planetOfOrigin": "Earth",
         "relationsWithTheDoctor": "Companion",
         "actors": ["Jenna Coleman", "Sophie Downham"],
         "image": "https://static.wikia.nocookie.net/tardis/images/2/2c/Clara_Oswald_The_Day_of_The_Doctor.jpg/revision/latest/scale-to-width-down/350?cb=20220628072921"
@@ -294,7 +294,7 @@
         "status": "Dead",
         "species": "Human",
         "gender": "Female",
-        "planet": "Earth",
+        "planetOfOrigin": "Earth",
         "relationsWithTheDoctor": "Companion",
         "actors": ["Pearl Mackie", "Liam Carey"],
         "image": "https://static.wikia.nocookie.net/tardis/images/1/13/Bill_serves_chips_%28TP%29.jpg/revision/latest/scale-to-width-down/350?cb=20181023214736"
@@ -306,7 +306,7 @@
         "status": "Alive",
         "species": "Human",
         "gender": "Male",
-        "planet": "Earth",
+        "planetOfOrigin": "Earth",
         "relationsWithTheDoctor": "Companion",
         "actors": ["Bradley Walsh"],
         "image": "https://static.wikia.nocookie.net/tardis/images/1/10/Graham_mournful_%28ITYA%29.jpg/revision/latest/scale-to-width-down/350?cb=20181202233956"
@@ -318,7 +318,7 @@
         "status": "Alive",
         "species": "Human",
         "gender": "Male",
-        "planet": "Earth",
+        "planetOfOrigin": "Earth",
         "relationsWithTheDoctor": "Companion",
         "actors": ["Tosin Cole"],
         "image": "https://static.wikia.nocookie.net/tardis/images/6/6c/Ryan_by_TARDIS_close_%28AITUK%29.jpg/revision/latest/scale-to-width-down/350?cb=20201011173050"
@@ -330,7 +330,7 @@
         "status": "Alive",
         "species": "Human",
         "gender": "Female",
-        "planet": "Earth",
+        "planetOfOrigin": "Earth",
         "relationsWithTheDoctor": "Companion",
         "actors": ["Mandip Gill"],
         "image": "https://static.wikia.nocookie.net/tardis/images/c/cb/Yaz_smiles_%28Rosa%29.jpg/revision/latest/scale-to-width-down/350?cb=20211123234354"
@@ -342,7 +342,7 @@
         "status": "Alive",
         "species": "Human",
         "gender": "Male",
-        "planet": "Earth",
+        "planetOfOrigin": "Earth",
         "relationsWithTheDoctor": "Companion",
         "actors": ["John Bishop"],
         "image": "https://static.wikia.nocookie.net/tardis/images/9/94/Dan_Lewis_WttT.jpg/revision/latest/scale-to-width-down/350?cb=20211101022330"
@@ -354,7 +354,7 @@
         "status": "Dead",
         "species": "Human",
         "gender": "Female",
-        "planet": "Earth",
+        "planetOfOrigin": "Earth",
         "relationsWithTheDoctor": "Companion",
         "actors": ["Alex Kingston"],
         "image": "https://static.wikia.nocookie.net/tardis/images/e/e5/River_Looks_Left_LKH.jpg/revision/latest/scale-to-width-down/350?cb=20201011194939"
@@ -366,7 +366,7 @@
         "status": "Alive",
         "species": "Silurian",
         "gender": "Female",
-        "planet": "Earth",
+        "planetOfOrigin": "Earth",
         "relationsWithTheDoctor": "Friend",
         "actors": ["Neve McIntosh"],
         "image": "https://static.wikia.nocookie.net/tardis/images/3/30/Vastra_angry_at_Strax_2.jpg/revision/latest/scale-to-width-down/350?cb=20211120181958"
@@ -378,7 +378,7 @@
         "status": "Dead",
         "species": "Human",
         "gender": "Female",
-        "planet": "Earth",
+        "planetOfOrigin": "Earth",
         "relationsWithTheDoctor": "Friend",
         "actors": ["Catrin Stewart"],
         "image": "https://static.wikia.nocookie.net/tardis/images/8/87/Jenny_Flint_Crop.jpg/revision/latest?cb=20211208213233"
@@ -390,7 +390,7 @@
         "status": "Dead",
         "species": "Human",
         "gender": "Male",
-        "planet": "Earth",
+        "planetOfOrigin": "Earth",
         "relationsWithTheDoctor": "Friend",
         "actors": ["Nicholas Courtney"],
         "image": "https://static.wikia.nocookie.net/tardis/images/0/05/BrigSeriousInvasion.jpg/revision/latest/scale-to-width-down/350?cb=20120605145021"
@@ -402,7 +402,7 @@
         "status": "Alive",
         "species": "Human",
         "gender": "Female",
-        "planet": "Earth",
+        "planetOfOrigin": "Earth",
         "relationsWithTheDoctor": "Friend",
         "actors": ["Elisabeth Sladen", "Jessica Ashworth", "Jessica Mogridge"],
         "image": "https://static.wikia.nocookie.net/tardis/images/7/7f/SarahJaneSmirkTHOF.jpg/revision/latest/scale-to-width-down/350?cb=20130920034858"
@@ -414,7 +414,7 @@
         "status": "Alive",
         "species": "Robot",
         "gender": "Unknown",
-        "planet": "Earth",
+        "planetOfOrigin": "Earth",
         "relationsWithTheDoctor": "Friend",
         "actors": ["John Leeson", "Roy Skelton", "David Brierley"],
         "image": "https://static.wikia.nocookie.net/tardis/images/a/a0/K9_in_the_TARDIS.jpg/revision/latest/scale-to-width-down/350?cb=20130701231916"
@@ -426,7 +426,7 @@
         "status": "Alive",
         "species": "Human",
         "gender": "Female",
-        "planet": "Earth",
+        "planetOfOrigin": "Earth",
         "relationsWithTheDoctor": "Friend",
         "actors": ["Camille Coduri"],
         "image": "https://static.wikia.nocookie.net/tardis/images/6/64/Jackie_drinks_tea_%28L%26M%29.jpg/revision/latest/scale-to-width-down/350?cb=20180811222314"
@@ -434,11 +434,11 @@
     {
         "id": 37,
         "name": "Astrid Peth",
-        "description": "Astrid Peth was a native of the planet Sto who worked as a waitress aboard the Titanic. She was a potential companion to the Tenth Doctor.",
+        "description": "Astrid Peth was a native of the planetOfOrigin"planetOfOrigin" Sto who worked as a waitress aboard the Titanic. She was a potential companion to the Tenth Doctor.",
         "status": "Dead",
         "species": "Humanoid",
         "gender": "Female",
-        "planet": "Sto",
+        "planetOfOrigin": "Sto",
         "relationsWithTheDoctor": "Friend",
         "actors": ["Kylie Minogue"],
         "image": "https://static.wikia.nocookie.net/tardis/images/7/76/Astrid_starstruck_%28VOTD%29.jpg/revision/latest/scale-to-width-down/350?cb=20181111011418"
@@ -450,7 +450,7 @@
         "status": "Alive",
         "species": "Human",
         "gender": "Male",
-        "planet": "Earth",
+        "planetOfOrigin": "Earth",
         "relationsWithTheDoctor": "Friend",
         "actors": ["David Morrissey"],
         "image": "https://static.wikia.nocookie.net/tardis/images/3/37/JacksonLake1.jpg/revision/latest/scale-to-width-down/350?cb=20120314174801"
@@ -462,7 +462,7 @@
         "status": "Alive",
         "species": "Human",
         "gender": "Female",
-        "planet": "Earth",
+        "planetOfOrigin": "Earth",
         "relationsWithTheDoctor": "Friend",
         "actors": ["Michelle Ryan"],
         "image": "https://static.wikia.nocookie.net/tardis/images/5/55/ChristinaInBus.jpg/revision/latest/scale-to-width-down/350?cb=20130224044035"
@@ -474,7 +474,7 @@
         "status": "Dead",
         "species": "Human",
         "gender": "Female",
-        "planet": "Earth",
+        "planetOfOrigin": "Earth",
         "relationsWithTheDoctor": "Neutral",
         "actors": ["Lindsay Duncan", "Rachel Fewell"],
         "image": "https://static.wikia.nocookie.net/tardis/images/9/94/Adelaide_Brooke.jpg/revision/latest/scale-to-width-down/350?cb=20140127054621"
@@ -486,7 +486,7 @@
         "status": "Alive",
         "species": "Human",
         "gender": "Female",
-        "planet": "Gallifrey",
+        "planetOfOrigin": "Gallifrey",
         "relationsWithTheDoctor": "Companion",
         "actors": ["Carole Ann Ford"],
         "image": "https://static.wikia.nocookie.net/tardis/images/f/f9/SusanTheEscape.jpg/revision/latest/scale-to-width-down/350?cb=20130430050109"
@@ -498,7 +498,7 @@
         "status": "Dead",
         "species": "Time Lord",
         "gender": "Female",
-        "planet": "Gallifrey",
+        "planetOfOrigin": "Gallifrey",
         "relationsWithTheDoctor": "Self",
         "actors": ["Jo Martin"],
         "image": "https://static.wikia.nocookie.net/tardis/images/4/4d/The_Doctor_%28Fugitive_of_the_Judoon%29.jpg/revision/latest/scale-to-width-down/350?cb=20200202000235"
@@ -510,7 +510,7 @@
         "status": "Alive",
         "species": "Sontaran", 
         "gender": "Unknown",
-        "planet": "Sontar",
+        "planetOfOrigin": "Sontar",
         "relationsWithTheDoctor": "Friend",
         "actors": ["Dan Starkey"],
         "image": "https://static.wikia.nocookie.net/tardis/images/6/63/Strax_examining_Clara_Deep_Breath.jpg/revision/latest/scale-to-width-down/350?cb=20140825191814"
@@ -522,7 +522,7 @@
         "status": "Dead",
         "species": "Sontaran", 
         "gender": "Unknown",
-        "planet": "Sontar",
+        "planetOfOrigin": "Sontar",
         "relationsWithTheDoctor": "Foe",
         "actors": ["Christopher Ryan"],
         "image": "https://static.wikia.nocookie.net/tardis/images/2/23/Staal2.jpg/revision/latest/scale-to-width-down/350?cb=20081216211718"
@@ -534,7 +534,7 @@
         "status": "Dead",
         "species": "Crespallion", 
         "gender": "Male",
-        "planet": "Crespallion",
+        "planetOfOrigin": "Crespallion",
         "relationsWithTheDoctor": "Neutral",
         "actors": ["Simon Fisher-Becker"],
         "image": "https://static.wikia.nocookie.net/tardis/images/a/ab/Dorium_close_up_%28AGMGTW%29.jpg/revision/latest/scale-to-width-down/350?cb=20170613110630"
@@ -546,7 +546,7 @@
         "status": "Dead",
         "species": "Human", 
         "gender": "Female",
-        "planet": "Gamma Forests",
+        "planetOfOrigin": "Gamma Forests",
         "relationsWithTheDoctor": "Friend",
         "actors": ["Christina Chong"],
         "image": "https://static.wikia.nocookie.net/tardis/images/5/5c/Lorna_Bucket.jpg/revision/latest/scale-to-width-down/350?cb=20140611022130"
@@ -558,7 +558,7 @@
         "status": "Alive",
         "species": "Human", 
         "gender": "Male",
-        "planet": "Earth",
+        "planetOfOrigin": "Earth",
         "relationsWithTheDoctor": "Friend",
         "actors": ["Hugh Bonneville"],
         "image": "https://static.wikia.nocookie.net/tardis/images/1/1a/Avery.jpg/revision/latest/scale-to-width-down/350?cb=20160504123731"
@@ -570,7 +570,7 @@
         "status": "Dead",
         "species": "Human", 
         "gender": "Female",
-        "planet": "Unknown",
+        "planetOfOrigin": "Unknown",
         "relationsWithTheDoctor": "Foe",
         "actors": ["Frances Barber"],
         "image": "https://static.wikia.nocookie.net/tardis/images/c/c0/MKovarian.jpg/revision/latest/scale-to-width-down/350?cb=20200131111534"
@@ -582,7 +582,7 @@
         "status": "Alive",
         "species": "Human", 
         "gender": "Female",
-        "planet": "Earth",
+        "planetOfOrigin": "Earth",
         "relationsWithTheDoctor": "Neutral",
         "actors": ["Sophie Okonedo"],
         "image": "https://static.wikia.nocookie.net/tardis/images/3/30/Liz10TBB.jpg/revision/latest/scale-to-width-down/350?cb=20131212012056"
@@ -594,7 +594,7 @@
         "status": "Alive",
         "species": "Human", 
         "gender": "Male",
-        "planet": "Earth",
+        "planetOfOrigin": "Earth",
         "relationsWithTheDoctor": "Friend",
         "actors": ["Ian McNeice"],
         "image": "https://static.wikia.nocookie.net/tardis/images/a/ab/Winston_churchill_main.jpg/revision/latest/scale-to-width-down/350?cb=20120505004608"
@@ -606,9 +606,45 @@
         "status": "Dead",
         "species": "Human", 
         "gender": "Male",
-        "planet": "Earth",
+        "planetOfOrigin": "Earth",
         "relationsWithTheDoctor": "Friend",
         "actors": ["Tony Curran"],
         "image": "https://static.wikia.nocookie.net/tardis/images/0/0b/Vincent_and_the_Doctor_Painting.jpg/revision/latest/scale-to-width-down/350?cb=20170721145104"
+    },
+    {
+        "id": 51,
+        "name": "Jo Grant",
+        "description": "Josephine Jones, also known as Jo, was a companion of the Third Doctor.",
+        "status": "Alive",
+        "species": "Human", 
+        "gender": "Female",
+        "planetOfOrigin": "Earth",
+        "relationsWithTheDoctor": "Companion",
+        "actors": ["Katy Manning"],
+        "image": "https://static.wikia.nocookie.net/tardis/images/4/4b/Jo_Grant_close.jpg/revision/latest/scale-to-width-down/350?cb=20130218001430"
+    },
+    {
+        "id": 52,
+        "name": "Ace",
+        "description": "Ace was a companion of the Seventh Doctor. Her real name was either Dorothy Gale or Dorothy Gale McShane.",
+        "status": "Alive",
+        "species": "Human", 
+        "gender": "Female",
+        "planetOfOrigin": "Earth",
+        "relationsWithTheDoctor": "Companion",
+        "actors": ["Sophie Aldred"],
+        "image": "https://static.wikia.nocookie.net/tardis/images/5/56/AceCloseUpLookLeftSurvival.jpg/revision/latest/scale-to-width-down/350?cb=20120511031037"
+    },
+    {
+        "id": 53,
+        "name": "Peri Brown",
+        "description": "Perpugilliam Brown, also known as Peri, was a companion of the Fifth and Sixth Doctors, as well as a temporary companion to the Second Doctor during an encounter with Dastari.",
+        "status": "Dead",
+        "species": "Human", 
+        "gender": "Female",
+        "planetOfOrigin": "Earth",
+        "relationsWithTheDoctor": "Companion",
+        "actors": ["Nicola Bryant"],
+        "image": "https://static.wikia.nocookie.net/tardis/images/e/e2/PeriSmilesLeftPOF.jpg/revision/latest/scale-to-width-down/350?cb=20130623000046"
     }
 ]
