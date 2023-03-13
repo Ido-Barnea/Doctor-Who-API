@@ -215,7 +215,7 @@
         "species": "https://doctorwhoapi.cyclic.app/api/species/?name=Human",
         "gender": "Female",
         "placeOfOrigin": "Earth",
-        "jobs": [],
+        "jobs": ["Shop assistant", "Dinner lady", "Teacher"],
         "relationsWithTheDoctor": "Companion",
         "actors": ["Billie Piper"],
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Rose_Tyler.jpg/220px-Rose_Tyler.jpg"
@@ -228,7 +228,7 @@
         "species": "https://doctorwhoapi.cyclic.app/api/species/?name=Human",
         "gender": "Male",
         "placeOfOrigin": "Earth",
-        "jobs": [],
+        "jobs": ["Mechanic", "Conspirecy theorist"],
         "relationsWithTheDoctor": "Companion",
         "actors": ["Noel Clarke"],
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Mickey_Smith.jpg/175px-Mickey_Smith.jpg"
@@ -241,7 +241,7 @@
         "species": "https://doctorwhoapi.cyclic.app/api/species/?name=Human",
         "gender": "Male",
         "placeOfOrigin": "Boeshane Peninsula",
-        "jobs": [],
+        "jobs": ["Time Agent", "Conman", "Barman", "Terrorist"],
         "relationsWithTheDoctor": "Companion",
         "actors": ["John Barrowman"],
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Jack_Harkness.jpg/220px-Jack_Harkness.jpg"
@@ -254,7 +254,7 @@
         "species": "https://doctorwhoapi.cyclic.app/api/species/?name=Human",
         "gender": "Female",
         "placeOfOrigin": "Earth",
-        "jobs": [],
+        "jobs": ["Secretary"],
         "relationsWithTheDoctor": "Companion",
         "actors": ["Catherine Tate"],
         "image": "https://static.wikia.nocookie.net/tardis/images/4/47/DonnaNobleTL.jpg/revision/latest/scale-to-width-down/350?cb=20131212013358"
@@ -267,7 +267,7 @@
         "species": "https://doctorwhoapi.cyclic.app/api/species/?name=Human",
         "gender": "Female",
         "placeOfOrigin": "Earth",
-        "jobs": [],
+        "jobs": ["Physician"],
         "relationsWithTheDoctor": "Companion",
         "actors": ["Freema Agyeman"],
         "image": "https://static.wikia.nocookie.net/tardis/images/d/d9/MarthaAfter42.jpg/revision/latest/scale-to-width-down/350?cb=20191010171632"
@@ -280,7 +280,7 @@
         "species": "https://doctorwhoapi.cyclic.app/api/species/?name=Human",
         "gender": "Female",
         "placeOfOrigin": "Earth",
-        "jobs": [],
+        "jobs": ["Kissogram", "Model", "Journalist"],
         "relationsWithTheDoctor": "Companion",
         "actors": ["Karen Gillan", "Caitlin Blackwood"],
         "image": "https://static.wikia.nocookie.net/tardis/images/c/c4/Amy_Geronimo.jpg/revision/latest/scale-to-width-down/350?cb=20120909215453"
@@ -293,7 +293,7 @@
         "species": "https://doctorwhoapi.cyclic.app/api/species/?name=Human",
         "gender": "Male",
         "placeOfOrigin": "Earth",
-        "jobs": [],
+        "jobs": ["Nurse", "Gladiator", "Bodyguard", "Caesar", "Knight", "Doctor"],
         "relationsWithTheDoctor": "Companion",
         "actors": ["Arthur Darvill", "Ezekiel Wigglesworth"],
         "image": "https://static.wikia.nocookie.net/tardis/images/a/af/Rory_AoD.jpg/revision/latest?cb=20121010030052"
@@ -306,7 +306,7 @@
         "species": "https://doctorwhoapi.cyclic.app/api/species/?name=Human",
         "gender": "Female",
         "placeOfOrigin": "Earth",
-        "jobs": [],
+        "jobs": ["Nanny", "Teacher"],
         "relationsWithTheDoctor": "Companion",
         "actors": ["Jenna Coleman", "Sophie Downham"],
         "image": "https://static.wikia.nocookie.net/tardis/images/2/2c/Clara_Oswald_The_Day_of_The_Doctor.jpg/revision/latest/scale-to-width-down/350?cb=20220628072921"
@@ -319,7 +319,7 @@
         "species": "https://doctorwhoapi.cyclic.app/api/species/?name=Human",
         "gender": "Female",
         "placeOfOrigin": "Earth",
-        "jobs": [],
+        "jobs": ["Dinner lady", "Student"],
         "relationsWithTheDoctor": "Companion",
         "actors": ["Pearl Mackie", "Liam Carey"],
         "image": "https://static.wikia.nocookie.net/tardis/images/1/13/Bill_serves_chips_%28TP%29.jpg/revision/latest/scale-to-width-down/350?cb=20181023214736"
@@ -332,7 +332,7 @@
         "species": "https://doctorwhoapi.cyclic.app/api/species/?name=Human",
         "gender": "Male",
         "placeOfOrigin": "Earth",
-        "jobs": [],
+        "jobs": ["Bus driver"],
         "relationsWithTheDoctor": "Companion",
         "actors": ["Bradley Walsh"],
         "image": "https://static.wikia.nocookie.net/tardis/images/1/10/Graham_mournful_%28ITYA%29.jpg/revision/latest/scale-to-width-down/350?cb=20181202233956"
@@ -345,7 +345,7 @@
         "species": "https://doctorwhoapi.cyclic.app/api/species/?name=Human",
         "gender": "Male",
         "placeOfOrigin": "Earth",
-        "jobs": [],
+        "jobs": ["Warehouse worker"],
         "relationsWithTheDoctor": "Companion",
         "actors": ["Tosin Cole"],
         "image": "https://static.wikia.nocookie.net/tardis/images/6/6c/Ryan_by_TARDIS_close_%28AITUK%29.jpg/revision/latest/scale-to-width-down/350?cb=20201011173050"
@@ -358,7 +358,7 @@
         "species": "https://doctorwhoapi.cyclic.app/api/species/?name=Human",
         "gender": "Female",
         "placeOfOrigin": "Earth",
-        "jobs": [],
+        "jobs": ["Police officer"],
         "relationsWithTheDoctor": "Companion",
         "actors": ["Mandip Gill"],
         "image": "https://static.wikia.nocookie.net/tardis/images/c/cb/Yaz_smiles_%28Rosa%29.jpg/revision/latest/scale-to-width-down/350?cb=20211123234354"
@@ -371,7 +371,7 @@
         "species": "https://doctorwhoapi.cyclic.app/api/species/?name=Human",
         "gender": "Male",
         "placeOfOrigin": "Earth",
-        "jobs": [],
+        "jobs": ["Volunteer"],
         "relationsWithTheDoctor": "Companion",
         "actors": ["John Bishop"],
         "image": "https://static.wikia.nocookie.net/tardis/images/9/94/Dan_Lewis_WttT.jpg/revision/latest/scale-to-width-down/350?cb=20211101022330"
@@ -384,7 +384,7 @@
         "species": "https://doctorwhoapi.cyclic.app/api/species/?name=Human",
         "gender": "Female",
         "placeOfOrigin": "Earth",
-        "jobs": [],
+        "jobs": ["Archaeologist", "Detective", "Writer", "Assassian", "Lecturer", "Scientific advisor"],
         "relationsWithTheDoctor": "Companion",
         "actors": ["Alex Kingston"],
         "image": "https://static.wikia.nocookie.net/tardis/images/e/e5/River_Looks_Left_LKH.jpg/revision/latest/scale-to-width-down/350?cb=20201011194939"
