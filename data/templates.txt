@@ -6,7 +6,8 @@ character:
     "status": "", [Alive / Dead / Unknown]
     "species": "", [Species Name]
     "gender": "", [Male / Female / Unknown]
-    "placeOfOrigin": "", [Place URL]
+    "placeOfOrigin": "", [Place Name]
+    "jobs": [], [Job Name]
     "relationsWithTheDoctor": "", [Companion / Friend / Foe / Neutral / Self]
     "actors": [], [Actor Full Name]
     "image": "" [Image URL]
@@ -17,7 +18,7 @@ species:
     "id": 0,
     "name": "", [Species's Name]
     "description": "", [A few sentences describing the species]
-    "placeOfOrigin": "", [Place URL]
+    "placeOfOrigin": "", [Place Name]
     "image": "" [Image URL]
 }
 
