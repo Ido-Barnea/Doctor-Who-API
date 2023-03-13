@@ -16,3 +16,4 @@ Here is a list of things you can do to help:
 - [ ] Add characters (e.g. The Doctor / Donna Noble / etc.).
 - [ ] Add species (e.g. Daleks / Cybermen / etc.).
 - [ ] Add planets (e.g. Earth / Gallifrey / etc.).
+- [ ] Update existing data.

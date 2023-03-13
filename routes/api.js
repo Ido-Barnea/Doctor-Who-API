@@ -4,13 +4,13 @@ module.exports = router;
 
 const characters = require('./../data/characters.json');
 const species = require('./../data/species.json');
-const planets = require('./../data/planets.json');
+const locations = require('./../data/locations.json');
 
 router.get('/', (req, res) => {
     res.status(200).json({
         'Characters': 'https://doctorwhoapi.cyclic.app/api/characters',
         'Species': 'https://doctorwhoapi.cyclic.app/api/species',
-        'Planets': 'https://doctorwhoapi.cyclic.app/api/planets'
+        'Locations': 'https://doctorwhoapi.cyclic.app/api/locations'
     });
 });
 
@@ -22,8 +22,8 @@ router.get('/species', (req, res) => {
     handleDataRequest(req, res, species);
 });
 
-router.get('/planets', (req, res) => {
-    handleDataRequest(req, res, planets);
+router.get('/locations', (req, res) => {
+    handleDataRequest(req, res, locations);
 });
 
 
@@ -57,9 +57,13 @@ class QueryResponse {
 function validateQuery(jsonObject, query) {
     for (key in query) {
         // Return false and Bad Request error code if key doesn't exist.
-        if (!(key in jsonObject)) return new QueryResponse(false, 400, "Unknown Filter.");
+        if (!(key in jsonObject)) return new QueryResponse(false, 400, 'Unknown Filter.');
         // Return false if key values don't match.
-        if (jsonObject[key] != query[key]) return new QueryResponse(false, null, null);
+        if (key == 'species') {
+            const species = jsonObject['species'].split('?name=')[1];
+            if (query[key] != species) return new QueryResponse(false, null, null);
+        }
+        else if (jsonObject[key] != query[key]) return new QueryResponse(false, null, null);
     }
 
     return new QueryResponse(true, null, null);
