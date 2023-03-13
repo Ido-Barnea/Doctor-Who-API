@@ -37,7 +37,7 @@
     {
         "id": 6,
         "name": "Tower of London",
-        "type": "Fortified prison and UNIT base",
+        "type": "Building",
         "description": "The Tower of London, sometimes referred to as the Tower Ops by UNIT officers, was a prison, fortified royal residence, and UNIT headquarters in London. The Doctor visited it on more than one occasion and managed to be thrown in it as a prisoner across several incarnations.",
         "image": "https://static.wikia.nocookie.net/tardis/images/6/64/Tower_of_London.jpg/revision/latest/scale-to-width-down/350?cb=20110705190410"
     },
@@ -51,8 +51,99 @@
     {
         "id": 8,
         "name": "London Eye",
-        "type": "Ferris wheel",
+        "type": "Structure",
         "description": "The London Eye, also known as the Millennium Wheel, was a giant Ferris wheel and a well-known landmark in London.",
         "image": "https://static.wikia.nocookie.net/tardis/images/1/16/Ninth_Doctor_Rose_under_London_Eye.jpg/revision/latest/scale-to-width-down/350?cb=20131029203314"
+    },
+    {
+        "id": 9,
+        "name": "Boeshane Peninsula",
+        "type": "Region of an unnamed colony world",
+        "description": "The Boeshane Peninsula was located on one of Earth's colony worlds by the 51st century.",
+        "image": "https://static.wikia.nocookie.net/tardis/images/4/47/Boeshane.jpg/revision/latest?cb=20130528135709"
+    },
+    {
+        "id": 10,
+        "name": "Last Chance Saloon",
+        "type": "Building",
+        "description": "The Last Chance Saloon was a bar in Tombstone, Arizona. It was owned by Charlie, who employed Kate Fisher as a singer.",
+        "image": "https://static.wikia.nocookie.net/tardis/images/0/09/Steven%2C_Dodo_and_Phineas.jpg/revision/latest/scale-to-width-down/350?cb=20140905104701"
+    },
+    {
+        "id": 10,
+        "name": "Vortis",
+        "type": "Planet",
+        "description": "Vortis, called the project world by the Gods of Light, was a planet in the Isop Galaxy. It was home to various native insectoid species, including the Menoptera, the Optera, the Zarbi and the larvae guns.",
+        "image": "https://static.wikia.nocookie.net/tardis/images/0/09/Steven%2C_Dodo_and_Phineas.jpg/revision/latest/scale-to-width-down/350?cb=20140905104701"
+    },
+    {
+        "id": 11,
+        "name": "Pompeii",
+        "type": "City",
+        "description": "Pompeii was a city on the west coast of Italy remembered for its destruction by the volcano Vesuvius in 79 AD.",
+        "image": "https://static.wikia.nocookie.net/tardis/images/a/aa/Volcano_Day_%28TFOP%29.jpg/revision/latest/scale-to-width-down/350?cb=20180804214516"
+    },
+    {
+        "id": 12,
+        "name": "10 Downing Street",
+        "type": "Building",
+        "description": "10 Downing Street was the residence of the Prime Minister of the United Kingdom and seat of the government of Great Britain, and later the UK from the 17th century to the early 21st century.",
+        "image": "https://static.wikia.nocookie.net/tardis/images/2/23/10_Downing_Street_%28Revolution_of_the_Daleks%29.jpg/revision/latest/scale-to-width-down/350?cb=20210101214038"
+    },
+    {
+        "id": 13,
+        "name": "St Luke's University",
+        "type": "Building",
+        "description": "St Luke's University was a university in Bristol. By 2017, the Twelfth Doctor had spent almost seventy years working there as a lecturer, while both he and Nardole guarded a secret vault hidden beneath the university campus. It was here where the Doctor first met Bill Potts.",
+        "image": "https://static.wikia.nocookie.net/tardis/images/f/f6/St_Luke%27s_University.jpg/revision/latest/scale-to-width-down/350?cb=20170416040430"
+    },
+    {
+        "id": 14,
+        "name": "Amy Pond's House",
+        "type": "Building",
+        "description": "Amy Pond's house was a house in Leadworth where Amy Pond, along with her parents, Augustus and Tabetha Pond, lived from her early childhood until her marriage with Rory Williams.",
+        "image": "https://static.wikia.nocookie.net/tardis/images/b/b0/The_Eleventh_Hour_-_Amy%27s_Door.jpg/revision/latest/scale-to-width-down/350?cb=20170111231429"
+    },
+    {
+        "id": 15,
+        "name": "Black Archive",
+        "type": "Building",
+        "description": "The Black Archive, also known as the Black Vault, was a secret vault maintained by UNIT in the Tower of London. The dangerous equipment it contained was such that even the Archive's own staff were forbidden to know what it held.",
+        "image": "https://static.wikia.nocookie.net/tardis/images/8/87/Theblackarchive.jpg/revision/latest/scale-to-width-down/350?cb=20100802180613"
+    },
+    {
+        "id": 16,
+        "name": "Zaggit Zagoo bar",
+        "type": "Building",
+        "description": "The Zaggit Zagoo bar was a bar located either on a space station, or in the city of Zaggit Zagoo on the planet Zog.",
+        "image": "https://static.wikia.nocookie.net/tardis/images/5/57/The-end-of-time-73.jpg/revision/latest/scale-to-width-down/350?cb=20100103140944"
+    },
+    {
+        "id": 17,
+        "name": "The Doctor's tomb",
+        "type": "Structure",
+        "description": "In an alternate timeline where the Eleventh Doctor died at the Siege of Trenzalore, the Doctor's TARDIS underwent a size leak, grew into a monument and was used as his tomb.",
+        "image": "https://static.wikia.nocookie.net/tardis/images/6/66/GiganTARDIS.jpg/revision/latest/scale-to-width-down/350?cb=20131102235633"
+    },
+    {
+        "id": 18,
+        "name": "The Shard",
+        "type": "Building",
+        "description": "The Shard was a London skyscraper. It was located in Southwark.",
+        "image": "https://static.wikia.nocookie.net/tardis/images/4/49/The_Shard2.jpg/revision/latest/scale-to-width-down/350?cb=20220823080706"
+    },
+    {
+        "id": 19,
+        "name": "National Gallery",
+        "type": "Building",
+        "description": "The National Gallery was an art museum on Trafalgar Square in London. The museum had a secret annex, the Under Gallery, which was constructed by Elizabeth I to house any art deemed too dangerous for public consumption. Gallifrey Falls No More was among its collection.",
+        "image": "https://static.wikia.nocookie.net/tardis/images/5/56/NationalGallery.jpg/revision/latest/scale-to-width-down/350?cb=20140105011013"
+    },
+    {
+        "id": 20,
+        "name": "National Museum",
+        "type": "Building",
+        "description": "The National Museum was a large museum in central London.",
+        "image": "https://static.wikia.nocookie.net/tardis/images/e/ed/National_Museum.jpg/revision/latest/scale-to-width-down/350?cb=20120629172834"
     }
 ]
