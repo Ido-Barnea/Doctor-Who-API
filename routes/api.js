@@ -4,13 +4,13 @@ module.exports = router;
 
 const characters = require('./../data/characters.json');
 const species = require('./../data/species.json');
-const planets = require('./../data/planets.json');
+const locations = require('./../data/locations.json');
 
 router.get('/', (req, res) => {
     res.status(200).json({
         'Characters': 'https://doctorwhoapi.cyclic.app/api/characters',
         'Species': 'https://doctorwhoapi.cyclic.app/api/species',
-        'Planets': 'https://doctorwhoapi.cyclic.app/api/planets'
+        'Locations': 'https://doctorwhoapi.cyclic.app/api/locations'
     });
 });
 
@@ -22,8 +22,8 @@ router.get('/species', (req, res) => {
     handleDataRequest(req, res, species);
 });
 
-router.get('/planets', (req, res) => {
-    handleDataRequest(req, res, planets);
+router.get('/locations', (req, res) => {
+    handleDataRequest(req, res, locations);
 });
 
 

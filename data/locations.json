@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Gallifrey",
+        "type": "Planet",
+        "description": "Gallifrey was the homeworld of the Time Lords. By one account, the planet was actually named Jewel. The literal translation of the name \"Gallifrey\" was \"They that walk in the shadows\", and indeed, \"the Shadow People\" was one of the names given to the planet's inhabitants.",
+        "image": "https://static.wikia.nocookie.net/tardis/images/d/d5/GallifreyReturns-1-.jpg/revision/latest/scale-to-width-down/350?cb=20120410032325"
+    },
+    {
+        "id": 2,
+        "name": "Earth",
+        "type": "Planet",
+        "description": "Earth, also known as the Earth and Planet Earth, was a planet in the solar system whose native sapient species included the human race and the Silurians.",
+        "image": "https://static.wikia.nocookie.net/tardis/images/a/a4/Earth_In_the_Forest_of_the_Night.jpg/revision/latest/scale-to-width-down/350?cb=20141031020212"
+    },
+    {
+        "id": 3,
+        "name": "Sontar",
+        "type": "Planet",
+        "description": "Sontar, sometimes called Sontara, was the home planet of the Kaveetch, who created the Sontaran clones during their war with the Rutans. The cloned Sontarans eventually became the planet's rulers.",
+        "image": "https://static.wikia.nocookie.net/tardis/images/6/62/Sontar.jpg/revision/latest?cb=20080804154719"
+    },
+    {
+        "id": 4,
+        "name": "Mars",
+        "type": "Planet",
+        "description": "Mars (also known as Sol IV) was a planet in the solar system, inhabited by the Gandorans, the Ice Warriors, the Martians from The War of the Worlds, another race sometimes known as the Meercocks, a viral species known as the Flood, and at multiple points, by human colonists.",
+        "image": "https://static.wikia.nocookie.net/tardis/images/3/30/Doctor-who-the-waters-of-mars-82.jpg/revision/latest/scale-to-width-down/350?cb=20101023010820"
+    },
+    {
+        "id": 5,
+        "name": "Skaro",
+        "type": "Planet",
+        "description": "Skaro was the homeworld of the Thals, of the Kaleds, and infamously, of the Daleks. The latter came to be during the Thousand Year War between the Thals and Kaleds because of the actions of the Kaled scientist Davros. After its devastation and irradiation during this war, Skaro became uninhabitable to humanoids without regular anti-radioactivity drug treatments. Subsequent attacks on the planet caused by the Dalek presence would nearly destroy it, but eventually, Skaro was remade by the Daleks and became the centre of the Dalek Empire once more.",
+        "image": "https://static.wikia.nocookie.net/tardis/images/4/4a/Skaro.jpg/revision/latest/scale-to-width-down/350?cb=20120405231507"
+    },
+    {
+        "id": 6,
+        "name": "Tower of London",
+        "type": "Fortified prison and UNIT base",
+        "description": "The Tower of London, sometimes referred to as the Tower Ops by UNIT officers, was a prison, fortified royal residence, and UNIT headquarters in London. The Doctor visited it on more than one occasion and managed to be thrown in it as a prisoner across several incarnations.",
+        "image": "https://static.wikia.nocookie.net/tardis/images/6/64/Tower_of_London.jpg/revision/latest/scale-to-width-down/350?cb=20110705190410"
+    },
+    {
+        "id": 7,
+        "name": "London",
+        "type": "City",
+        "description": "London, also known as London Town and London City, was the capital city of the United Kingdom and of England. It was a prominent city on Earth and was invaded by aliens many times. With the help of the Doctor, the invasions were repelled. Organisations such as UNIT, Torchwood One, MI5, MI6 and the Department also assisted in the defence of the city.",
+        "image": "https://static.wikia.nocookie.net/tardis/images/c/c2/After_the_fire.jpg/revision/latest/scale-to-width-down/350?cb=20110704131919"
+    },
+    {
+        "id": 8,
+        "name": "London Eye",
+        "type": "Ferris wheel",
+        "description": "The London Eye, also known as the Millennium Wheel, was a giant Ferris wheel and a well-known landmark in London.",
+        "image": "https://static.wikia.nocookie.net/tardis/images/1/16/Ninth_Doctor_Rose_under_London_Eye.jpg/revision/latest/scale-to-width-down/350?cb=20131029203314"
+    }
+]

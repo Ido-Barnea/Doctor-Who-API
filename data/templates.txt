@@ -22,11 +22,11 @@ species:
     "image": "" [Image URL]
 }
 
-planet:
+location:
 {
     "id": 0,
-    "name": "", [Planet's Name]
-    "description": "", [A few sentences describing the planet]
-    "moons": [], [Names of the planet's moons]
+    "name": "", [Location Name]
+    "type": "", [Location type (e.g. Planet / City / etc.)]
+    "description": "", [Location description]
     "image": "" [Image URL]
 }
