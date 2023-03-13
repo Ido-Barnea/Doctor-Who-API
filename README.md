@@ -1,5 +1,5 @@
 # Doctor-Who-API :large_blue_diamond:
-An API for information about the Doctor Who universe.
+A JSON based API for retrieving information about the Doctor Who universe.
 
 <img src="https://wallpapercave.com/wp/4CGjOpV.jpg">
 <br>
