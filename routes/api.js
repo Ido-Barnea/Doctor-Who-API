@@ -57,9 +57,13 @@ class QueryResponse {
 function validateQuery(jsonObject, query) {
     for (key in query) {
         // Return false and Bad Request error code if key doesn't exist.
-        if (!(key in jsonObject)) return new QueryResponse(false, 400, "Unknown Filter.");
+        if (!(key in jsonObject)) return new QueryResponse(false, 400, 'Unknown Filter.');
         // Return false if key values don't match.
-        if (jsonObject[key] != query[key]) return new QueryResponse(false, null, null);
+        if (key == 'species') {
+            const species = jsonObject['species'].split('?name=')[1];
+            if (query[key] != species) return new QueryResponse(false, null, null);
+        }
+        else if (jsonObject[key] != query[key]) return new QueryResponse(false, null, null);
     }
 
     return new QueryResponse(true, null, null);
