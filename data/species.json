@@ -38,7 +38,7 @@
         "id": 6,
         "name": "Robot",
         "description": "A robot — also called an automaton by at least the Tenth Doctor — was a mechanical device with the ability to do work without the help of a living organism. Unlike Cybermen, robots were fully mechanical, with no organic components.",
-        "placeOfOrigin": "",
+        "placeOfOrigin": "Unknown",
         "image": "https://static.wikia.nocookie.net/tardis/images/9/98/Gadget_TWofM.jpg/revision/latest/scale-to-width-down/250?cb=20140127044120"
     },
     {
@@ -80,7 +80,14 @@
         "id": 12,
         "name": "Weeping Angel",
         "description": "The Weeping Angels were an extremely powerful species of quantum-locked humanoids, so called because their unique nature necessitated that they often covered their faces with their hands to prevent trapping each other in petrified form for eternity by looking at one another. This gave the Weeping Angels their distinct \"weeping\" appearance. They were known for being \"kind\" murderous psychopaths, eradicating their victims \"mercifully\" by dropping them into the past and letting them live out their full lives, just in a different time period. This, in turn, allowed them to live off the remaining time energy of the victim's life. However, when this potential energy paled in comparison to an alternative power source to feed on, the Angels were known to kill by other means, such as snapping their victims' necks.",
-        "placeOfOrigin": "",
+        "placeOfOrigin": "Unknown",
         "image": "https://static.wikia.nocookie.net/tardis/images/8/8f/Angels_surround_Professor_Jericho%27s_house.jpg/revision/latest/scale-to-width-down/350?cb=20211121204159"
+    },
+    {
+        "id": 13,
+        "name": "Humanoid",
+        "description": "Humanoid was a taxonomic term that broadly described such species as the Time Lords or Raxacoricofallapatorians. A humanoid species was thought of as one which was bilaterally symmetrical, bipedal, and possessed of a naturally upright posture. Such species also typically had two arms, two legs, one thorax, a neck, and a head with a brain located in it. Humanoids of this description were very common in the universe.",
+        "placeOfOrigin": "Unknown",
+        "image": "https://static.wikia.nocookie.net/tardis/images/e/e3/Bit_of_sunshine.jpg/revision/latest/scale-to-width-down/250?cb=20101220194601"
     }
 ]

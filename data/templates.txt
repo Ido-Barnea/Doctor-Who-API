@@ -4,9 +4,9 @@ character:
     "name": "", [Character's Full Name]
     "description": "", [A few sentences describing the character]
     "status": "", [Alive / Dead / Unknown]
-    "species": "", [Species Name]
+    "species": "", [Species Name / Unknown]
     "gender": "", [Male / Female / Unknown]
-    "placeOfOrigin": "", [Place Name]
+    "placeOfOrigin": "", [Place Name / Unknown]
     "jobs": [], [Job Name]
     "relationsWithTheDoctor": "", [Companion / Friend / Foe / Neutral / Self]
     "actors": [], [Actor Full Name]
@@ -18,7 +18,7 @@ species:
     "id": 0,
     "name": "", [Species's Name]
     "description": "", [A few sentences describing the species]
-    "placeOfOrigin": "", [Place Name]
+    "placeOfOrigin": "", [Place Name / Unknown]
     "image": "" [Image URL]
 }
 
