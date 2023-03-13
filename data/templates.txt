@@ -6,7 +6,7 @@ character:
     "status": "", [Alive / Dead / Unknown]
     "species": "", [Species Name]
     "gender": "", [Male / Female / Unknown]
-    "planetOfOrigin": "", [Planet URL]
+    "placeOfOrigin": "", [Place URL]
     "relationsWithTheDoctor": "", [Companion / Friend / Foe / Neutral / Self]
     "actors": [], [Actor Full Name]
     "image": "" [Image URL]
@@ -17,8 +17,7 @@ species:
     "id": 0,
     "name": "", [Species's Name]
     "description": "", [A few sentences describing the species]
-    "planetOfOrigin": "", [Planet URL]
-    "relationsWithTheDoctor": "", [Friend / Foe / Neutral]
+    "placeOfOrigin": "", [Place URL]
     "image": "" [Image URL]
 }
 
