@@ -856,5 +856,18 @@
         "relationsWithTheDoctor": "Friend",
         "actors": ["Kayvan Novak"],
         "image": "https://static.wikia.nocookie.net/tardis/images/7/78/Handles.jpg/revision/latest/scale-to-width-down/350?cb=20131227022317"
+    },
+    {
+        "id": 66,
+        "name": "Jenny (The Doctor's Daughter)",
+        "description": "Jenny was the daughter of the Tenth Doctor, artificially created from his DNA when it was sampled by a progenation machine.",
+        "status": "Alive",
+        "species": "https://doctorwhoapi.cyclic.app/api/species/?name=Time Lord", 
+        "gender": "Female",
+        "placeOfOrigin": "Messaline",
+        "jobs": [],
+        "relationsWithTheDoctor": "Friend",
+        "actors": ["Georgia Moffett"],
+        "image": "https://static.wikia.nocookie.net/tardis/images/a/ad/The_Doctor%27s_Daughter.jpg/revision/latest/scale-to-width-down/350?cb=20201025204157"
     }
 ]

@@ -215,5 +215,12 @@
         "type": "Building",
         "description": "Lazarus Laboratories were the laboratories of Richard Lazarus located in Southwark. Lazarus' research was funded by Harold Saxon, and Lazarus Laboratories's logo was very similar to the insignia on the Master's ring. The Tenth Doctor and Martha Jones attended a reception there, when Professor Lazarus was showing his machine.",
         "image": "https://static.wikia.nocookie.net/tardis/images/5/5c/Lazarus_Laboratories.jpg/revision/latest/scale-to-width-down/250?cb=20201203173504"
+    },
+    {
+        "id": 31,
+        "name": "Messaline",
+        "type": "Planet",
+        "description": "Messaline was a planet colonised by both humans and Hath",
+        "image": "https://static.wikia.nocookie.net/tardis/images/a/ad/Messaline_%28TDD%29.jpg/revision/latest/scale-to-width-down/350?cb=20150106230115"
     }
 ]

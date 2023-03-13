@@ -89,5 +89,33 @@
         "description": "Humanoid was a taxonomic term that broadly described such species as the Time Lords or Raxacoricofallapatorians. A humanoid species was thought of as one which was bilaterally symmetrical, bipedal, and possessed of a naturally upright posture. Such species also typically had two arms, two legs, one thorax, a neck, and a head with a brain located in it. Humanoids of this description were very common in the universe.",
         "placeOfOrigin": "Unknown",
         "image": "https://static.wikia.nocookie.net/tardis/images/e/e3/Bit_of_sunshine.jpg/revision/latest/scale-to-width-down/250?cb=20101220194601"
+    },
+    {
+        "id": 14,
+        "name": "Cyberman",
+        "description": "The Cybermen were a \"race\" of cybernetically augmented humanoids. They varied greatly in design between numerous different Cyber-subspecies, and originated independently through parallel evolution from various locations across time, space and universes, including Mondas, Telos, Planet 14, Marinus, a Mondasian colony ship, the Earths of N-Space and \"Pete's World\", and at least one other parallel universe.",
+        "placeOfOrigin": "Unknown",
+        "image": "https://static.wikia.nocookie.net/tardis/images/1/14/41631814_cybermen3_416bbc.jpg/revision/latest/scale-to-width-down/350?cb=20100812191116"
+    },
+    {
+        "id": 15,
+        "name": "Androgum",
+        "description": "Androgums were a barbaric, primitive humanoid race used for menial labour in the Third Zone.",
+        "placeOfOrigin": "Unknown",
+        "image": "https://static.wikia.nocookie.net/tardis/images/c/c2/Shockeye.jpg/revision/latest/scale-to-width-down/350?cb=20170720213829"
+    },
+    {
+        "id": 16,
+        "name": "Tree of Cheem",
+        "description": "The Trees of Cheem, commonly known as tree people or simply trees, were a race of intelligent humanoid trees, descended from the rainforests of Earth.",
+        "placeOfOrigin": "Cheem",
+        "image": "https://static.wikia.nocookie.net/tardis/images/8/87/Forest_of_cheem.jpg/revision/latest/scale-to-width-down/350?cb=20101016163151"
+    },
+    {
+        "id": 17,
+        "name": "Hath",
+        "description": "The Hath were a species of fish-like humanoids.",
+        "placeOfOrigin": "Unknown",
+        "image": "https://static.wikia.nocookie.net/tardis/images/0/08/Hath_look_left.jpg/revision/latest/scale-to-width-down/350?cb=20201025204523"
     }
 ]
