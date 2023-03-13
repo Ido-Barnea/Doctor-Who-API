@@ -145,5 +145,82 @@
         "type": "Building",
         "description": "The National Museum was a large museum in central London.",
         "image": "https://static.wikia.nocookie.net/tardis/images/e/ed/National_Museum.jpg/revision/latest/scale-to-width-down/350?cb=20120629172834"
+    },
+    {
+        "id": 21,
+        "name": "Barn (The Day of the Doctor)",
+        "type": "Building",
+        "description": "The Doctor once slept in a barn as a child. They later returned to the site in four of their later incarnations, including on their return to Gallifrey after saving it in the Last Great Time War. The barn was located in the drylands of Gallifrey, near to the Capitol.",
+        "image": "https://static.wikia.nocookie.net/tardis/images/f/f2/Barn_Day_of_the_Doctor.jpg/revision/latest/scale-to-width-down/350?cb=20140914141604"
+    },
+    {
+        "id": 22,
+        "name": "Bank of Karabraxos",
+        "type": "Building",
+        "description": "The Bank of Karabraxos was a financial institution used by the ultra-wealthy of the galaxy. It was the most secure bank in the galaxy: no one stepped foot on the planet without protocols, all movement was monitored, air consumption was regulated and DNA was required at every stage. Therefore, extremely valuable items were stored in the bank as well.",
+        "image": "https://static.wikia.nocookie.net/tardis/images/f/fd/Bank_of_Karabraxos.jpg/revision/latest/scale-to-width-down/350?cb=20140922214946"
+    },
+    {
+        "id": 23,
+        "name": "The Doctor's cottage",
+        "type": "Building",
+        "description": "After the Third Doctor was exiled on Earth, he came to own a cottage. While the Third Doctor had many homes during this exile, the cottage was the oldest of them.",
+        "image": "https://static.wikia.nocookie.net/tardis/images/6/62/The_Doctor%27s_cottage_Zeron_Invasion.jpg/revision/latest/scale-to-width-down/350?cb=20170524201555"
+    },
+    {
+        "id": 24,
+        "name": "Amy Pond and Rory Williams' house (The God Complex)",
+        "type": "Building",
+        "description": "Amy Pond and Rory Williams' house was in London, bought by the Eleventh Doctor for his companions, to keep them safe from his adventures.",
+        "image": "https://static.wikia.nocookie.net/tardis/images/c/c5/The_Doctor_visits_Amy_and_Rory%27s_house_%28The_Doctor%2C_the_Widow_and_the_Wardrobe%29.jpg/revision/latest/scale-to-width-down/350?cb=20200314170854"
+    },
+    {
+        "id": 25,
+        "name": "Musée d'Orsay",
+        "type": "Building",
+        "description": "The Musée d'Orsay was a French art museum located in Paris. By the early 21st century, they exposed works by painters such as Vincent van Gogh. It was visited by the Eleventh Doctor and Amy Pond, in 2010, when they took Vincent van Gogh to the museum to show him his legacy.",
+        "image": "https://static.wikia.nocookie.net/tardis/images/e/e3/The_version_in_Doctor_Who.jpg/revision/latest/scale-to-width-down/350?cb=20100607020325"
+    },
+    {
+        "id": 26,
+        "name": "St John's Monastery",
+        "type": "Building",
+        "description": "St John's Monastery was a 13th century monastery located on a \"tiny island\" on Earth. In the 22nd century it was used as a factory by a group of military contractors led by Miranda Cleaves. The monastery was located on a small island in the middle of a large body of water.",
+        "image": "https://static.wikia.nocookie.net/tardis/images/4/47/Monastery_rebel_flesh.jpg/revision/latest/scale-to-width-down/350?cb=20110523120834"
+    },
+    {
+        "id": 27,
+        "name": "St Paul's Cathedral",
+        "type": "Building",
+        "description": "St Paul's Cathedral was a cathedral in the City of London, known for its large size and distinctive dome.",
+        "image": "https://static.wikia.nocookie.net/tardis/images/7/73/St_Pauls_World_War_Three.jpg/revision/latest/scale-to-width-down/350?cb=20180610223354"
+    },
+    {
+        "id": 28,
+        "name": "Stonehenge",
+        "type": "Structure",
+        "description": "Stonehenge was an assemblage of giant stones erected in Wiltshire during the 2nd Millennium BC. By the early 21st century, it was one of the most famous prehistoric sites in the world. Guinevere Winchester described it as \"Britain's favourite old ruin\", after Barbara Cartland. According to one incarnation of the Doctor, Stonehenge was a \"child's construction kit\", compared to the Gates of Martontigan.",
+        "image": "https://static.wikia.nocookie.net/tardis/images/7/7f/Stonehenge_%28The_Lie_of_the_Land%29.jpg/revision/latest/scale-to-width-down/350?cb=20170603213825"
+    },
+    {
+        "id": 29,
+        "name": "Sydney Opera House",
+        "type": "Building",
+        "description": "The Sydney Opera House was a large venue hall located in Sydney, Australia. The Seventh Doctor wasn't sure if he preferred the bridge or the opera house. The Eleventh Doctor took Kazran Sardick and Abigail Pettigrew here when he was giving Kazran memories of Abigail.",
+        "image": "https://static.wikia.nocookie.net/tardis/images/9/99/Sydney_Opera_House_%28DIH%29.jpg/revision/latest/scale-to-width-down/350?cb=20200612141659"
+    },
+    {
+        "id": 30,
+        "name": "Lazarus Laboratories",
+        "type": "Building",
+        "description": "Lazarus Laboratories were the laboratories of Richard Lazarus located in Southwark. Lazarus' research was funded by Harold Saxon, and Lazarus Laboratories's logo was very similar to the insignia on the Master's ring. The Tenth Doctor and Martha Jones attended a reception there, when Professor Lazarus was showing his machine.",
+        "image": "https://static.wikia.nocookie.net/tardis/images/5/5c/Lazarus_Laboratories.jpg/revision/latest/scale-to-width-down/250?cb=20201203173504"
+    },
+    {
+        "id": 31,
+        "name": "Messaline",
+        "type": "Planet",
+        "description": "Messaline was a planet colonised by both humans and Hath",
+        "image": "https://static.wikia.nocookie.net/tardis/images/a/ad/Messaline_%28TDD%29.jpg/revision/latest/scale-to-width-down/350?cb=20150106230115"
     }
 ]
