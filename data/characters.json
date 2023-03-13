@@ -778,5 +778,18 @@
         "relationsWithTheDoctor": "Companion",
         "actors": ["Lalla Ward", "Mary Tamm", "Yvonne Gallagher", "Lee Richards", "Maggy Armitage", "Liv Spencer"],
         "image": "https://static.wikia.nocookie.net/tardis/images/d/d9/Romanapic1.jpg/revision/latest/scale-to-width-down/350?cb=20140508160140"
+    },
+    {
+        "id": 60,
+        "name": "Harriet Jones",
+        "description": "Harriet Jones was a British politician in the early 21st century who served as Prime Minister of the United Kingdom.",
+        "status": "Dead",
+        "species": "https://doctorwhoapi.cyclic.app/api/species/?name=Human", 
+        "gender": "Female",
+        "placeOfOrigin": "Earth",
+        "jobs": ["Prime Minister"],
+        "relationsWithTheDoctor": "Friend",
+        "actors": ["Penelope Wilton"],
+        "image": "https://static.wikia.nocookie.net/tardis/images/7/70/Harriet_Jones_looking_right.jpg/revision/latest/scale-to-width-down/350?cb=20220508201151"
     }
 ]

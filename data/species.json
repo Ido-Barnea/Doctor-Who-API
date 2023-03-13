@@ -68,5 +68,19 @@
         "description": "The Sontarans were a humanoid race of belligerent and militaristic clones from the planet Sontar, created by the Kaveetch. They waged an eternal war throughout Mutter's Spiral against the Rutans. They made no effort to change this and did not want peace.",
         "placeOfOrigin": "Sontar",
         "image": "https://static.wikia.nocookie.net/tardis/images/7/74/Sontarans_troops_%28WOTS%29.jpg/revision/latest/scale-to-width-down/350?cb=20211115235755"
+    },
+    {
+        "id": 11,
+        "name": "Zygon",
+        "description": "The Zygons were a race of metamorphic humanoids. They originated from the planet Zygor, but often tried to migrate away from it.",
+        "placeOfOrigin": "Zygor",
+        "image": "https://static.wikia.nocookie.net/tardis/images/5/5b/Zygon_in_daylight_widescreen.jpg/revision/latest/scale-to-width-down/350?cb=20131125234046"
+    },
+    {
+        "id": 12,
+        "name": "Weeping Angel",
+        "description": "The Weeping Angels were an extremely powerful species of quantum-locked humanoids, so called because their unique nature necessitated that they often covered their faces with their hands to prevent trapping each other in petrified form for eternity by looking at one another. This gave the Weeping Angels their distinct \"weeping\" appearance. They were known for being \"kind\" murderous psychopaths, eradicating their victims \"mercifully\" by dropping them into the past and letting them live out their full lives, just in a different time period. This, in turn, allowed them to live off the remaining time energy of the victim's life. However, when this potential energy paled in comparison to an alternative power source to feed on, the Angels were known to kill by other means, such as snapping their victims' necks.",
+        "placeOfOrigin": "",
+        "image": "https://static.wikia.nocookie.net/tardis/images/8/8f/Angels_surround_Professor_Jericho%27s_house.jpg/revision/latest/scale-to-width-down/350?cb=20211121204159"
     }
 ]
