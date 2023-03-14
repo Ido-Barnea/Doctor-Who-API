@@ -5,9 +5,7 @@ A JSON based API for retrieving information about the Doctor Who universe.
 <br>
 
 ## Website :computer:
-Feel free to visit our website on https://doctorwhoapi.cyclic.app.
-
-Visit https://doctorwhoapi.cyclic.app/api for the Doctor Who API.
+Feel free to look at the API on https://doctorwhoapi.cyclic.app/api.
 
 ## Contribute :gift:
 We are happy for any and all contributions to the project.
