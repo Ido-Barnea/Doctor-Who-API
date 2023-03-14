@@ -18,12 +18,30 @@ router.get('/characters', (req, res) => {
     handleDataRequest(req, res, characters);
 });
 
+router.get('/characters/:id', (req, res) => {
+    const id = req.params.id;
+    if (id < 0 || characters.length <= id) res.status(400).json("Unknown Filter.");
+    else res.status(200).json(characters[id]);
+});
+
 router.get('/species', (req, res) => {
     handleDataRequest(req, res, species);
 });
 
+router.get('/species/:id', (req, res) => {
+    const id = req.params.id;
+    if (id < 0 || species.length <= id) res.status(400).json("Unknown Filter.");
+    else res.status(200).json(species[req.params.id]);
+});
+
 router.get('/locations', (req, res) => {
     handleDataRequest(req, res, locations);
+});
+
+router.get('/locations/:id', (req, res) => {
+    const id = req.params.id;
+    if (id < 0 || locations.length <= id) res.status(400).json("Unknown Filter.");
+    else res.status(200).json(locations[req.params.id]);
 });
 
 
