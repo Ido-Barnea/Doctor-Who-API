@@ -73,7 +73,7 @@ class QueryResponse {
 }
 
 function validateQuery(jsonDict, query) {
-    const availableFilteringKeys = ['name', 'status', 'species', 'gender', 'placeOfOrigin', 'jobs', 'relationsWithTheDoctor'];
+    const availableFilteringKeys = ['name', 'status', 'species', 'gender', 'placeOfOrigin', 'relationsWithTheDoctor'];
     const dictionaryFieldsKeys = ['species', 'placeOfOrigin'];
 
     for (key in query) {
