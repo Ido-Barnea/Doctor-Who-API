@@ -4,9 +4,15 @@ character:
     "name": "", [Character's Full Name]
     "description": "", [A few sentences describing the character]
     "status": "", [Alive / Dead / Unknown]
-    "species": "", [Species Name / Unknown]
+    "species": {
+        "name": "", [Species Name / Unknown]
+        "link": "" [Species Link]
+    },
     "gender": "", [Male / Female / Unknown]
-    "placeOfOrigin": "", [Place Name / Unknown]
+    "placeOfOrigin": {
+        "name": "", [Location Name / Unknown]
+        "link": "" [Location Link]
+    },
     "jobs": [], [Job Name]
     "relationsWithTheDoctor": "", [Companion / Friend / Foe / Neutral / Self]
     "actors": [], [Actor Full Name]
