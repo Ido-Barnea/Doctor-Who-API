@@ -19,7 +19,7 @@ router.get('/characters', (req, res) => {
 });
 
 router.get('/characters/:id', (req, res) => {
-    const id = req.params.id;
+    const id = req.params.id - 1;
     if (id < 0 || characters.length <= id) res.status(400).json("Unknown Filter.");
     else res.status(200).json(characters[id]);
 });
@@ -29,7 +29,7 @@ router.get('/species', (req, res) => {
 });
 
 router.get('/species/:id', (req, res) => {
-    const id = req.params.id;
+    const id = req.params.id - 1;
     if (id < 0 || species.length <= id) res.status(400).json("Unknown Filter.");
     else res.status(200).json(species[req.params.id]);
 });
@@ -39,7 +39,7 @@ router.get('/locations', (req, res) => {
 });
 
 router.get('/locations/:id', (req, res) => {
-    const id = req.params.id;
+    const id = req.params.id - 1;
     if (id < 0 || locations.length <= id) res.status(400).json("Unknown Filter.");
     else res.status(200).json(locations[req.params.id]);
 });
@@ -72,17 +72,23 @@ class QueryResponse {
     }
 }
 
-function validateQuery(jsonObject, query) {
+function validateQuery(jsonDict, query) {
+    const availableFilteringKeys = ['name', 'status', 'species', 'gender', 'placeOfOrigin', 'jobs', 'relationsWithTheDoctor'];
+    const dictionaryFieldsKeys = ['species', 'placeOfOrigin'];
+
     for (key in query) {
-        // Return false and Bad Request error code if key doesn't exist.
-        if (!(key in jsonObject)) return new QueryResponse(false, 400, 'Unknown Filter.');
-        // Return false if key values don't match.
-        if (key == 'species') {
-            const species = jsonObject['species'].split('?name=')[1];
-            if (query[key] != species) return new QueryResponse(false, null, null);
+        if (key in jsonDict && availableFilteringKeys.includes(key)) {
+            let jsonValue = jsonDict[key];
+            // If key value is a dictionary.
+            if (dictionaryFieldsKeys.includes(key)) jsonValue = jsonValue['name'];
+            // If json value doesn't match query value
+            if (jsonValue.toLowerCase() != query[key].toLowerCase()) return new QueryResponse(false, null, null);
+        } else {
+            // Return false and Bad Request error code if key doesn't exist.
+            return new QueryResponse(false, 400, 'Unknown Filter.');
         }
-        else if (jsonObject[key] != query[key]) return new QueryResponse(false, null, null);
     }
 
+    // Found a match.
     return new QueryResponse(true, null, null);
 }
