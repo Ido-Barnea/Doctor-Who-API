@@ -1,0 +1,163 @@
+body {
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main-container {
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+
+.main-menu {
+    box-sizing: border-box;
+    float: left;
+    width: 17.5%;
+    height: 95vh;
+    padding: 12px;
+    border-right: 1px solid gainsboro;
+    z-index: 1;
+    position: fixed;
+    padding-top: 5%;
+}
+
+.main-content {
+    box-sizing: border-box;
+    float: right;
+    width: 82.5%;
+    height: 100vh;
+    padding:  7.5% 15% 7.5% 15%;
+    background-color: white;
+    line-height: 1.5;
+}
+
+.main-navigation-bar {
+    border-bottom: 1px solid gainsboro;
+    overflow: hidden;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    z-index: 2;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: white;
+}
+
+.main-navigation-bar a {
+    float: right;
+    color: black;
+    padding-right: 24px;
+    text-align: center;
+    font-size: large;
+    font-weight: 700;
+    text-decoration: none;
+    transform: translateY(45%);
+    display: block;
+}
+
+.main-navigation-bar img {
+    padding-left: 32px;
+    height: 32px;
+}
+
+.main-menu h3 {
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.main-menu .menu-title {
+    font-size: 20px;
+    color: black;
+    font-weight: 800;
+    padding: 32px 12px 4px;
+}
+
+.main-menu a {
+    padding: 4px 24px 4px;
+    display: block;
+    font-size: 17px;
+    color: #3C3C3C;
+    text-decoration: none;
+    letter-spacing: 0.05rem;
+}
+
+.main-menu a:hover,
+.main-navigation-bar a:hover {
+    color: #005eb0;
+}
+
+.main-menu a:active,
+.main-navigation-bar a:active {
+    color: #005eb0;
+}
+
+.main-content .section {
+    margin: 0 0 128px 0;
+}
+
+.main-content .sub-section {
+    margin: 0 0 64px 0;
+    scroll-margin-top: 100px;
+}
+
+.main-content h4 {
+    font-weight: 800;
+    font-size: x-large;
+}
+
+.main-container h1 {
+    font-weight: 900;
+    margin: 0 0 64px 0;
+}
+
+.main-content p {
+    font-size: 17px;
+    color: black;
+}
+
+.main-content p mark {
+    background-color: rgba(0,0,0,0.1);
+    padding: 3px 5px 3px 5px;
+    border-radius: 3px;
+    color: #353535;
+}
+
+.main-content a {
+    text-decoration: none;
+    color: black;
+    border-bottom: 2px solid #003b6f;
+    padding: 0 0 4px;
+}
+
+.main-content a:hover {
+    color: #003b6f;
+    border-bottom: 0;
+    cursor: pointer;
+}
+
+.main-content .code {
+    background-color: #202020;
+    border-radius: 5px;
+    padding: 24px;
+    overflow-x: auto;
+}
+
+.main-content .code pre {
+    font-size: 16px;
+    color: white;
+}
+
+.main-content table,
+.main-content th,
+.main-content td {
+    border-bottom: 1px solid gray;
+    border-collapse: collapse;
+    padding: 16px;
+    padding-right: 48px;
+}
+
+.main-content th {
+    text-align: left;
+}
