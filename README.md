@@ -11,7 +11,8 @@ Feel free to look at the API on https://doctorwhoapi.cyclic.app/api.
 We are happy for any and all contributions to the project.
 
 Here is a list of things you can do to help:
-- [ ] Add characters (e.g. The Doctor / Donna Noble / etc.).
-- [ ] Add species (e.g. Daleks / Cybermen / etc.).
-- [ ] Add planets (e.g. Earth / Gallifrey / etc.).
-- [ ] Update existing data.
+- [ ] Add / Update characters (e.g. The Doctor / Donna Noble / etc.).
+- [ ] Add / Update species (e.g. Daleks / Cybermen / etc.).
+- [ ] Add / Update planets (e.g. Earth / Gallifrey / etc.).
+- [ ] Improve documentation (design or content).
+
