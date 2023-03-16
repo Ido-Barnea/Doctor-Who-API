@@ -70,13 +70,6 @@
         "image": "https://static.wikia.nocookie.net/tardis/images/0/09/Steven%2C_Dodo_and_Phineas.jpg/revision/latest/scale-to-width-down/350?cb=20140905104701"
     },
     {
-        "id": 10,
-        "name": "Vortis",
-        "type": "Planet",
-        "description": "Vortis, called the project world by the Gods of Light, was a planet in the Isop Galaxy. It was home to various native insectoid species, including the Menoptera, the Optera, the Zarbi and the larvae guns.",
-        "image": "https://static.wikia.nocookie.net/tardis/images/0/09/Steven%2C_Dodo_and_Phineas.jpg/revision/latest/scale-to-width-down/350?cb=20140905104701"
-    },
-    {
         "id": 11,
         "name": "Pompeii",
         "type": "City",
@@ -264,5 +257,19 @@
         "type": "Planet",
         "description": "Traken, or Traaken, was the homeworld of the Trakenites, a race of pacifists, and the capitol of the Traken Union. Its many plants required much care, a duty that was carried out by the Fosters.",
         "image": "https://static.wikia.nocookie.net/tardis/images/1/11/Traken.jpg/revision/latest/scale-to-width-down/350?cb=20161002092504"
+    },
+    {
+        "id": 38,
+        "name": "Zygor",
+        "type": "Planet",
+        "description": "The home planet of the Zygons was, by some accounts, called Zygor, although others indicate it was nameless. It was known to be warmer than Earth and covered in water, which was in the form of lakes with a different mineral composition than those of Earth. There were also no icecaps on the planet. Native lifeforms of Zygor included the unaltered Skarasen and the Zygons.",
+        "image": "https://static.wikia.nocookie.net/tardis/images/c/c4/Zygor.jpg/revision/latest/scale-to-width-down/350?cb=20200617012312"
+    },
+    {
+        "id": 39,
+        "name": "Vortis",
+        "type": "Planet",
+        "description": "Vortis, called the project world by the Gods of Light, was a planet in the Isop Galaxy. It was home to various native insectoid species, including the Menoptera, the Optera, the Zarbi and the larvae guns.",
+        "image": "https://static.wikia.nocookie.net/tardis/images/0/09/Steven%2C_Dodo_and_Phineas.jpg/revision/latest/scale-to-width-down/350?cb=20140905104701"
     }
 ]

@@ -3,105 +3,151 @@
         "id": 1,
         "name": "Dalek",
         "description": "The Daleks were a warrior race made up of genetically engineered mutants belonging to fundamental DNA type 467-989. On many occasions, the Daleks openly acknowledged a single Time Lord, the Doctor, as their greatest enemy.",
-        "planetOfOrigin": "Skaro",
+        "planetOfOrigin": {
+            "name": "Skaro",
+            "link": "https://doctorwhoapi.cyclic.app/api/locations/?name=Skaro"
+        },
         "image": "https://static.wikia.nocookie.net/tardis/images/8/8d/Zeg_and_the_Emperor.jpg/revision/latest/scale-to-width-down/350?cb=20210327012145"
     },
     {
         "id": 2,
         "name": "Human",
         "description": "Humans were a species of sentient primates. Though humans could trace their evolutionary past to Earth, many billions of humans were born on other worlds after humanity spread through the cosmos. Humans became so widespread that they eventually came to emphasise their relationship to worlds other than Earth, choosing to think of themselves not as Earthlings, but as Venusians and Martians.",
-        "placeOfOrigin": "Earth",
+        "placeOfOrigin": {
+            "name": "Earth",
+            "link": "https://doctorwhoapi.cyclic.app/api/locations/?name=Earth"
+        },
         "image": "https://static.wikia.nocookie.net/tardis/images/e/ef/Humans.jpg/revision/latest/scale-to-width-down/350?cb=20110730175919"
     },
     {
         "id": 3,
         "name": "Time Lord",
         "description": "The Time Lords (also knwon by many other names such as \"the Sun Builders\", \"the Watchmakers\", \"the Superiors\", and more) were the inhabitants of the planet Gallifrey, who were most famous for the creation and attempted monopolisation of time travel technology. They created and upheld the Laws of Time after establishing the Web of Time to keep the universe rational.",
-        "placeOfOrigin": "Gallifrey",
+        "placeOfOrigin": {
+            "name": "Gallifrey",
+            "link": "https://doctorwhoapi.cyclic.app/api/locations/?name=Gallifrey"
+        },
         "image": "https://static.wikia.nocookie.net/tardis/images/a/a5/TimeLordsTIOT.jpg/revision/latest/scale-to-width-down/350?cb=20121117232315"
     },
     {
         "id": 4,
         "name": "Alzarian",
         "description": "The Alzarians were one of three closely related species on Alzarius.",
-        "placeOfOrigin": "Alzarius",
+        "placeOfOrigin": {
+            "name": "Alzarius",
+            "link": "https://doctorwhoapi.cyclic.app/api/locations/?name=Alzarius"
+        },
         "image": "https://static.wikia.nocookie.net/tardis/images/f/f3/Deciders_holding_river_fruit.jpg/revision/latest?cb=20091110131814"
     },
     {
         "id": 5,
         "name": "Crespallion",
         "description": "Crespallions were a blue-skinned race of humanoids native of Crespallion, which was not a planet but part of the Jaggit Brocade, affiliated to the Scarlet Junction, Convex 56.",
-        "placeOfOrigin": "Crespallion",
+        "placeOfOrigin": {
+            "name": "Crespallion",
+            "link": "https://doctorwhoapi.cyclic.app/api/locations/?name=Crespallion"
+        },
         "image": "https://static.wikia.nocookie.net/tardis/images/8/88/Steward.jpg/revision/latest/scale-to-width-down/350?cb=20101016162747"
     },
     {
         "id": 6,
         "name": "Robot",
         "description": "A robot — also called an automaton by at least the Tenth Doctor — was a mechanical device with the ability to do work without the help of a living organism. Unlike Cybermen, robots were fully mechanical, with no organic components.",
-        "placeOfOrigin": "Unknown",
+        "placeOfOrigin": {
+            "name": "Unknown",
+            "link": ""
+        },
         "image": "https://static.wikia.nocookie.net/tardis/images/9/98/Gadget_TWofM.jpg/revision/latest/scale-to-width-down/250?cb=20140127044120"
     },
     {
         "id": 7,
         "name": "Trion",
         "description": "The Trions, originally known as the Clansfolk, were a race of humanoids from the planet Trion.",
-        "placeOfOrigin": "Trion",
+        "placeOfOrigin": {
+            "name": "Trion",
+            "link": "https://doctorwhoapi.cyclic.app/api/locations/?name=Trion"
+        },
         "image": "https://static.wikia.nocookie.net/tardis/images/6/6c/Lomand.jpg/revision/latest/scale-to-width-down/180?cb=20170414194025"
     },
     {
         "id": 8,
         "name": "Trakenite",
         "description": "The Trakenites, also known as Trakens, were a race of peaceful humanoids native to the planet Traken. Through the Keeper of Traken, they maintained the Traken Union.",
-        "placeOfOrigin": "Traken",
+        "placeOfOrigin": {
+            "name": "Traken",
+            "link": "https://doctorwhoapi.cyclic.app/api/locations/?name=Traken"
+        },
         "image": "https://static.wikia.nocookie.net/tardis/images/6/64/NyssaInAmsterdam.jpg/revision/latest/scale-to-width-down/350?cb=20120327033736"
     },
     {
         "id": 9,
         "name": "Silurian",
         "description": "The Silurians, also known as Earth Reptiles, Eocenes, reptile people, Psionosauropodomorpha, Homo Reptilicus, Homo reptilia and Reptilia sapiens, were a species native to Earth that pre-dated humanity.",
-        "placeOfOrigin": "Earth",
+        "placeOfOrigin": {
+            "name": "Earth",
+            "link": "https://doctorwhoapi.cyclic.app/api/locations/?name=Earth"
+        },
         "image": "https://static.wikia.nocookie.net/tardis/images/b/b5/Wenley_and_Wales.jpg/revision/latest/scale-to-width-down/350?cb=20110703184954"
     },
     {
         "id": 10,
         "name": "Sontaran",
         "description": "The Sontarans were a humanoid race of belligerent and militaristic clones from the planet Sontar, created by the Kaveetch. They waged an eternal war throughout Mutter's Spiral against the Rutans. They made no effort to change this and did not want peace.",
-        "placeOfOrigin": "Sontar",
+        "placeOfOrigin": {
+            "name": "Sontar",
+            "link": "https://doctorwhoapi.cyclic.app/api/locations/?name=Sontar"
+        },
         "image": "https://static.wikia.nocookie.net/tardis/images/7/74/Sontarans_troops_%28WOTS%29.jpg/revision/latest/scale-to-width-down/350?cb=20211115235755"
     },
     {
         "id": 11,
         "name": "Zygon",
         "description": "The Zygons were a race of metamorphic humanoids. They originated from the planet Zygor, but often tried to migrate away from it.",
-        "placeOfOrigin": "Zygor",
+        "placeOfOrigin": {
+            "name": "Zygor",
+            "link": "https://doctorwhoapi.cyclic.app/api/locations/?name=Zygor"
+        },
+        
         "image": "https://static.wikia.nocookie.net/tardis/images/5/5b/Zygon_in_daylight_widescreen.jpg/revision/latest/scale-to-width-down/350?cb=20131125234046"
     },
     {
         "id": 12,
         "name": "Weeping Angel",
         "description": "The Weeping Angels were an extremely powerful species of quantum-locked humanoids, so called because their unique nature necessitated that they often covered their faces with their hands to prevent trapping each other in petrified form for eternity by looking at one another. This gave the Weeping Angels their distinct \"weeping\" appearance. They were known for being \"kind\" murderous psychopaths, eradicating their victims \"mercifully\" by dropping them into the past and letting them live out their full lives, just in a different time period. This, in turn, allowed them to live off the remaining time energy of the victim's life. However, when this potential energy paled in comparison to an alternative power source to feed on, the Angels were known to kill by other means, such as snapping their victims' necks.",
-        "placeOfOrigin": "Unknown",
+        "placeOfOrigin": {
+            "name": "Unknown",
+            "link": ""
+        },
         "image": "https://static.wikia.nocookie.net/tardis/images/8/8f/Angels_surround_Professor_Jericho%27s_house.jpg/revision/latest/scale-to-width-down/350?cb=20211121204159"
     },
     {
         "id": 13,
         "name": "Humanoid",
         "description": "Humanoid was a taxonomic term that broadly described such species as the Time Lords or Raxacoricofallapatorians. A humanoid species was thought of as one which was bilaterally symmetrical, bipedal, and possessed of a naturally upright posture. Such species also typically had two arms, two legs, one thorax, a neck, and a head with a brain located in it. Humanoids of this description were very common in the universe.",
-        "placeOfOrigin": "Unknown",
+        "placeOfOrigin": {
+            "name": "Unknown",
+            "link": ""
+        },
         "image": "https://static.wikia.nocookie.net/tardis/images/e/e3/Bit_of_sunshine.jpg/revision/latest/scale-to-width-down/250?cb=20101220194601"
     },
     {
         "id": 14,
         "name": "Cyberman",
         "description": "The Cybermen were a \"race\" of cybernetically augmented humanoids. They varied greatly in design between numerous different Cyber-subspecies, and originated independently through parallel evolution from various locations across time, space and universes, including Mondas, Telos, Planet 14, Marinus, a Mondasian colony ship, the Earths of N-Space and \"Pete's World\", and at least one other parallel universe.",
-        "placeOfOrigin": "Unknown",
+        "placeOfOrigin": {
+            "name": "Unknown",
+            "link": ""
+        },
         "image": "https://static.wikia.nocookie.net/tardis/images/1/14/41631814_cybermen3_416bbc.jpg/revision/latest/scale-to-width-down/350?cb=20100812191116"
     },
     {
         "id": 15,
         "name": "Androgum",
         "description": "Androgums were a barbaric, primitive humanoid race used for menial labour in the Third Zone.",
-        "placeOfOrigin": "Unknown",
+        "placeOfOrigin": {
+            "name": "Unknown",
+            "link": ""
+        },
         "image": "https://static.wikia.nocookie.net/tardis/images/c/c2/Shockeye.jpg/revision/latest/scale-to-width-down/350?cb=20170720213829"
     },
     {
@@ -115,7 +161,10 @@
         "id": 17,
         "name": "Hath",
         "description": "The Hath were a species of fish-like humanoids.",
-        "placeOfOrigin": "Unknown",
+        "placeOfOrigin": {
+            "name": "Unknown",
+            "link": ""
+        },
         "image": "https://static.wikia.nocookie.net/tardis/images/0/08/Hath_look_left.jpg/revision/latest/scale-to-width-down/350?cb=20201025204523"
     }
 ]
