@@ -99,6 +99,187 @@
                         <tr>
                             <td>description</td>
                             <td>string</td>
+                            <td>The description of the character.</td>
+                        </tr>
+                        <tr>
+                            <td>status</td>
+                            <td>string</td>
+                            <td>The status of the character ("Alive", "Dead", "Unknown").</td>
+                        </tr>
+                        <tr>
+                            <td>species</td>
+                            <td>dictionary&lt;string, string&gt;</td>
+                            <td>A dictionary with the species name and link to the species.</td>
+                        </tr>
+                        <tr>
+                            <td>gender</td>
+                            <td>string</td>
+                            <td>The gender of the character ("Male", "Female", "Unknown").</td>
+                        </tr>
+                        <tr>
+                            <td>placeOfOrigin</td>
+                            <td>dictionary&lt;string, string&gt;</td>
+                            <td>A dictionary with the location's name and link to the location.</td>
+                        </tr>
+                        <tr>
+                            <td>jobs</td>
+                            <td>string[]</td>
+                            <td>An array of every job the character worked at.</td>
+                        </tr>
+                        <tr>
+                            <td>relationsWithTheDoctor</td>
+                            <td>string</td>
+                            <td>The character's relations with the Doctor ("Companion", "Friend", "Foe", "Neutral", "Self").</td>
+                        </tr>
+                        <tr>
+                            <td>actors</td>
+                            <td>string[]</td>
+                            <td>An array of every actor/actress who played the character.</td>
+                        </tr>
+                        <tr>
+                            <td>image</td>
+                            <td>string</td>
+                            <td>A link to the character's image.</td>
+                        </tr>
+                    </table>
+                </div>
+                <div class="sub-section" id="main-content-characters-get-all">
+                    <h4>Get All Characters</h4>
+                    <p>You can access the list of characters by using the <mark>/characters</mark> endpoint.</p>
+                    <br>
+                    <div class="code">
+                        <pre>GET https://doctorwhoapi.cyclic.app/api/characters</pre>
+                        <hr>
+                        <pre>
+[
+    {
+        "id":1,
+        "name":"First Doctor",
+        "description":"The first incarnation of the Doctor.",
+        "status":"Dead",
+        "species":"https://doctorwhoapi.cyclic.app/api/species/?name=Time Lord",
+        "gender":"Male",
+        "placeOfOrigin": {
+            "name":"Gallifrey",
+            "link":"https://doctorwhoapi.cyclic.app/api/locations/?name=Gallifrey"
+        },
+        "jobs":["Scrutationary Archivist","Tutor","Sheriff"],
+        "relationsWithTheDoctor":"Self",
+        "actors":["William Hartnell","Richard Hurndall"],
+        "image":"https://upload.wikimedia.org/wikipedia/en/thumb/7/70/First_Doctor_%28Doctor_Who%29.jpg/220px-First_Doctor_%28Doctor_Who%29.jpg"
+    }, ...
+]
+                        </pre>
+                    </div>
+                </div>
+                <div class="sub-section" id="main-content-characters-get-single">
+                    <h4>Get A Single Characters</h4>
+                    <p>You can get a single character by adding the <mark>id</mark> as a parameter.</p>
+                    <br>
+                    <div class="code">
+                        <pre>GET https://doctorwhoapi.cyclic.app/api/characters/21</pre>
+                        <hr>
+                        <pre>
+{
+    "id":21,
+    "name":"Martha Jones",
+    "description":"Dr Martha Smith-Jones was a British physician and a companion of the Tenth Doctor.",
+    "status":"Alive",
+    "species":"https://doctorwhoapi.cyclic.app/api/species/?name=Human",
+    "gender":"Female",
+    "placeOfOrigin": {
+        "name":"Earth",
+        "link":"https://doctorwhoapi.cyclic.app/api/locations/?name=Earth"
+    },
+    "jobs":["Physician"],
+    "relationsWithTheDoctor":"Companion",
+    "actors":["Freema Agyeman"],
+    "image":"https://static.wikia.nocookie.net/tardis/images/d/d9/MarthaAfter42.jpg/revision/latest/scale-to-width-down/350?cb=20191010171632"
+}
+                        </pre>
+                    </div>
+                </div>
+                <div class="sub-section" id="main-content-characters-filter">
+                    <h4>Filter Characters</h4>
+                    <p>
+                        You can also include filters in the URL by including additional query parameters. To start filtering add a <mark>?</mark>
+                        followed by the query <mark>&lt;query&gt;=&lt;value&gt;</mark>. If you want to chain several queries in the same call,
+                        use <mark>&</mark> followed by the query. For example, if you want to get all the characters who are Alive
+                        and Female, just add<br><mark>?status=Alive&gender=Female</mark> to the URL.
+                    </p>
+                    <p>Available Parameters:</p>
+                    <ul>
+                        <li>
+                            <p><mark>name</mark> filter by name.</p>
+                        </li>
+                        <li>
+                            <p><mark>status</mark> filter by status ("Alive", "Dead", "Unknown").</p>
+                        </li>
+                        <li>
+                            <p><mark>species</mark> filter by species.</p>
+                        </li>
+                        <li>
+                            <p><mark>gender</mark> filter by gender.</p>
+                        </li>
+                        <li>
+                            <p><mark>placeOfOrigin</mark> filter by place of origin.</p>
+                        </li>
+                        <li>
+                            <p><mark>relationsWithTheDoctor</mark> filter by relations with the Doctor ("Companion", "Friend", "Foe", "Neutral", "Self").</p>
+                        </li>
+                    </ul>
+                    <br>
+                    <div class="code">
+                        <pre>GET https://doctorwhoapi.cyclic.app/api/characters/?status=Alive&gender=Female</pre>
+                        <hr>
+                        <pre>
+[
+    {
+        "id":17,
+        "name":"Rose Tyler",
+        "description":"Rose Marion Tyler, knighted Dame Rose of the Powell Estate, was a companion of the Ninth and Tenth Doctors.",
+        "status":"Alive",
+        "species":"https://doctorwhoapi.cyclic.app/api/species/?name=Human",
+        "gender":"Female",
+        "placeOfOrigin": {
+            "name":"Earth",
+            "link":"https://doctorwhoapi.cyclic.app/api/locations/?name=Earth"
+        },
+        "jobs":["Shop assistant","Dinner lady","Teacher"],
+        "relationsWithTheDoctor":"Companion",
+        "actors":["Billie Piper"],
+        "image":"https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Rose_Tyler.jpg/220px-Rose_Tyler.jpg"
+    }, ...
+]
+                        </pre>
+                    </div>
+                </div>
+            </div>
+                <div class="sub-section" id="main-content-species">
+                    <h4>Species</h4>
+                    <p>You can also access many of the interesting species of the Doctor Who universe!</p>
+                </div>
+                <div class="sub-section" id="main-content-species-schema">
+                    <h4>Species Schema</h4>
+                    <table>
+                        <tr>
+                            <th>Key</th>
+                            <th>Type</th>
+                            <th>Description</th>
+                        </tr>
+                        <tr>
+                            <td>id</td>
+                            <td>int</td>
+                            <td>The ID of the species.</td>
+                        </tr>
+                        <tr>
+                            <td>name</td>
+                            <td>string</td>
+                            <td>The name of the species.</td>
+                        </tr>
+                        <tr>
+                            <td>description</td>
+                            <td>string</td>
                             <td>The status of the character ("Alive", "Dead", "Unknown").</td>
                         </tr>
                         <tr>
