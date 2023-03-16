@@ -15,4 +15,5 @@ Here is a list of things you can do to help:
 - [ ] Add / Update species (e.g. Daleks / Cybermen / etc.).
 - [ ] Add / Update planets (e.g. Earth / Gallifrey / etc.).
 - [ ] Improve documentation (design or content).
+- [ ] Design main web page.
 
