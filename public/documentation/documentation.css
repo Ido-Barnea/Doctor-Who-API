@@ -24,11 +24,11 @@ body {
 }
 
 .main-content {
-    box-sizing: border-box;
-    float: right;
-    width: 82.5%;
     height: 100vh;
-    padding:  7.5% 15% 7.5% 15%;
+    width: 50%;
+    position: absolute;
+    margin-left: 35%;
+    margin-top: 7.5%;
     background-color: white;
     line-height: 1.5;
 }
