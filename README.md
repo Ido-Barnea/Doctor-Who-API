@@ -5,7 +5,7 @@ A JSON based API for retrieving information about the Doctor Who universe.
 <br>
 
 ## Getting Started :hatching_chick:
-Check out the [documentation](https://doctorwhoapi.cyclic.app/documentation) to get started.
+Read the [documentation](https://doctorwhoapi.cyclic.app/documentation) to get started.
 
 ## Website :computer:
 Feel free to check out our [website](https://doctorwhoapi.cyclic.app).
