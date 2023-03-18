@@ -14,20 +14,22 @@ body {
 .main-menu {
     box-sizing: border-box;
     float: left;
-    width: 17.5%;
-    height: 95vh;
-    padding: 12px;
+    width: 20%;
+    height: 100vh;
+    padding-top: 5%;
+    padding-left: 12px;
+    padding-bottom: 5%;
     border-right: 1px solid gainsboro;
     z-index: 1;
     position: fixed;
-    padding-top: 5%;
+    overflow-y: scroll;
 }
 
 .main-content {
     height: 100vh;
     width: 50%;
     position: absolute;
-    margin-left: 35%;
+    margin-left: 30%;
     margin-top: 7.5%;
     background-color: white;
     line-height: 1.5;
@@ -49,11 +51,11 @@ body {
     float: right;
     color: black;
     padding-right: 24px;
-    text-align: center;
-    font-size: large;
+    text-align: left;
+    font-size: 1em;
     font-weight: 700;
     text-decoration: none;
-    transform: translateY(45%);
+    transform: translateY(55%);
     display: block;
 }
 
@@ -62,25 +64,19 @@ body {
     height: 32px;
 }
 
-.main-menu h3 {
-    font-weight: bold;
-    font-size: x-large;
-}
-
 .main-menu .menu-title {
-    font-size: 20px;
+    font-size: 1.25em;
     color: black;
     font-weight: 800;
-    padding: 32px 12px 4px;
+    padding: 32px 12px 8px;
 }
 
 .main-menu a {
-    padding: 4px 24px 4px;
+    padding: 6px 12px;
     display: block;
-    font-size: 17px;
+    font-size: 1em;
     color: #3C3C3C;
     text-decoration: none;
-    letter-spacing: 0.05rem;
 }
 
 .main-menu a:hover,
