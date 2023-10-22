@@ -1,5 +1,5 @@
 # Doctor-Who-API :large_blue_diamond:
-A JSON based API for retrieving information about the Doctor Who universe.
+A JSON-based API for retrieving information about the Doctor Who universe.
 
 <img src="https://wallpapercave.com/wp/4CGjOpV.jpg">
 <br>
@@ -15,5 +15,4 @@ We are happy for any and all contributions to the project.
 
 Here is a list of things you can do to help:
 - [ ] Add / Update information.
-- [ ] Improve documentation (design or content).
-- [ ] Help design the website.
+- [ ] Improve documentation.
