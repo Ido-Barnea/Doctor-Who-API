@@ -14,5 +14,5 @@ Feel free to check out our [website](https://doctorwhoapi.cyclic.app).
 We are happy for any and all contributions to the project.
 
 Here is a list of things you can do to help:
-- [ ] Add / Update information.
-- [ ] Improve documentation.
+- Add / Update information.
+- Improve documentation.
