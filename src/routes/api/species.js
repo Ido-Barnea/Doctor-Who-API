@@ -1,6 +1,6 @@
 const express = require('express');
 const router = express.Router();
-const species = require('../../data/species.json');
+const species = require('../../../data/species.json');
 const handleDataRequest = require('../../utils/handleDataRequest');
 
 router.get('/', (req, res) => {

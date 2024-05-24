@@ -1,6 +1,6 @@
 const express = require('express');
 const router = express.Router();
-const locations = require('../../data/location.json');
+const locations = require('../../../data/location.json');
 const handleDataRequest = require('../../utils/handleDataRequest');
 
 router.get('/', (req, res) => {

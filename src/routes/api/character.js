@@ -1,6 +1,6 @@
 const express = require('express');
 const router = express.Router();
-const characters = require('../../data/character.json');
+const characters = require('../../../data/character.json');
 const handleDataRequest = require('../../utils/handleDataRequest');
 
 router.get('/', (req, res) => {

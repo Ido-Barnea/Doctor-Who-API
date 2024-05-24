@@ -11,7 +11,7 @@ router.get('/', (req, res) => {
 });
 
 router.get('/documentation', (req, res) => {
-    res.status(200).sendFile(path.join(__dirname, '../public/documentation/documentation.html'));
+    res.status(200).sendFile(path.join(__dirname, '../../public/documentation/documentation.html'));
 });
 
 module.exports = router;
