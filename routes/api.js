@@ -8,9 +8,9 @@ const locations = require('./../data/locations.json');
 
 router.get('/', (req, res) => {
     res.status(200).json({
-        'Characters': 'https://doctorwhoapi.cyclic.app/api/characters',
-        'Species': 'https://doctorwhoapi.cyclic.app/api/species',
-        'Locations': 'https://doctorwhoapi.cyclic.app/api/locations'
+        'Characters': 'https://doctor-who-api.onrender.com/api/characters',
+        'Species': 'https://doctor-who-api.onrender.com/api/species',
+        'Locations': 'https://doctor-who-api.onrender.com/api/locations'
     });
 });
 
