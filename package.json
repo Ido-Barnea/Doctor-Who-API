@@ -1,7 +1,6 @@
 {
   "name": "doctor-who-api",
   "description": "A RESTful API for getting information on the famous TV show \"Doctor Who\".",
-  "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
