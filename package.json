@@ -1,19 +1,16 @@
 {
   "name": "doctor-who-api",
-  "version": "1.0.0",
-  "description": "A Nods.js RESTful API for getting information on the famous TV show \"Doctor Who\".",
+  "description": "A RESTful API for getting information on the famous TV show \"Doctor Who\".",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
   "keywords": [
     "node",
     "restful",
     "api"
   ],
-  "author": "Ido Barnea",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "dependencies": {
     "express": "^4.18.2"
   }
