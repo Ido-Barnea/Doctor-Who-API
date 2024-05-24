@@ -5,7 +5,7 @@
         "description": "The Daleks were a warrior race made up of genetically engineered mutants belonging to fundamental DNA type 467-989. On many occasions, the Daleks openly acknowledged a single Time Lord, the Doctor, as their greatest enemy.",
         "planetOfOrigin": {
             "name": "Skaro",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Skaro"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Skaro"
         },
         "image": "https://static.wikia.nocookie.net/tardis/images/8/8d/Zeg_and_the_Emperor.jpg/revision/latest/scale-to-width-down/350?cb=20210327012145"
     },
@@ -15,7 +15,7 @@
         "description": "Humans were a species of sentient primates. Though humans could trace their evolutionary past to Earth, many billions of humans were born on other worlds after humanity spread through the cosmos. Humans became so widespread that they eventually came to emphasise their relationship to worlds other than Earth, choosing to think of themselves not as Earthlings, but as Venusians and Martians.",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Earth"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
         },
         "image": "https://static.wikia.nocookie.net/tardis/images/e/ef/Humans.jpg/revision/latest/scale-to-width-down/350?cb=20110730175919"
     },
@@ -25,7 +25,7 @@
         "description": "The Time Lords (also knwon by many other names such as \"the Sun Builders\", \"the Watchmakers\", \"the Superiors\", and more) were the inhabitants of the planet Gallifrey, who were most famous for the creation and attempted monopolisation of time travel technology. They created and upheld the Laws of Time after establishing the Web of Time to keep the universe rational.",
         "placeOfOrigin": {
             "name": "Gallifrey",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Gallifrey"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Gallifrey"
         },
         "image": "https://static.wikia.nocookie.net/tardis/images/a/a5/TimeLordsTIOT.jpg/revision/latest/scale-to-width-down/350?cb=20121117232315"
     },
@@ -35,7 +35,7 @@
         "description": "The Alzarians were one of three closely related species on Alzarius.",
         "placeOfOrigin": {
             "name": "Alzarius",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Alzarius"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Alzarius"
         },
         "image": "https://static.wikia.nocookie.net/tardis/images/f/f3/Deciders_holding_river_fruit.jpg/revision/latest?cb=20091110131814"
     },
@@ -45,7 +45,7 @@
         "description": "Crespallions were a blue-skinned race of humanoids native of Crespallion, which was not a planet but part of the Jaggit Brocade, affiliated to the Scarlet Junction, Convex 56.",
         "placeOfOrigin": {
             "name": "Crespallion",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Crespallion"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Crespallion"
         },
         "image": "https://static.wikia.nocookie.net/tardis/images/8/88/Steward.jpg/revision/latest/scale-to-width-down/350?cb=20101016162747"
     },
@@ -65,7 +65,7 @@
         "description": "The Trions, originally known as the Clansfolk, were a race of humanoids from the planet Trion.",
         "placeOfOrigin": {
             "name": "Trion",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Trion"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Trion"
         },
         "image": "https://static.wikia.nocookie.net/tardis/images/6/6c/Lomand.jpg/revision/latest/scale-to-width-down/180?cb=20170414194025"
     },
@@ -75,7 +75,7 @@
         "description": "The Trakenites, also known as Trakens, were a race of peaceful humanoids native to the planet Traken. Through the Keeper of Traken, they maintained the Traken Union.",
         "placeOfOrigin": {
             "name": "Traken",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Traken"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Traken"
         },
         "image": "https://static.wikia.nocookie.net/tardis/images/6/64/NyssaInAmsterdam.jpg/revision/latest/scale-to-width-down/350?cb=20120327033736"
     },
@@ -85,7 +85,7 @@
         "description": "The Silurians, also known as Earth Reptiles, Eocenes, reptile people, Psionosauropodomorpha, Homo Reptilicus, Homo reptilia and Reptilia sapiens, were a species native to Earth that pre-dated humanity.",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Earth"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
         },
         "image": "https://static.wikia.nocookie.net/tardis/images/b/b5/Wenley_and_Wales.jpg/revision/latest/scale-to-width-down/350?cb=20110703184954"
     },
@@ -95,7 +95,7 @@
         "description": "The Sontarans were a humanoid race of belligerent and militaristic clones from the planet Sontar, created by the Kaveetch. They waged an eternal war throughout Mutter's Spiral against the Rutans. They made no effort to change this and did not want peace.",
         "placeOfOrigin": {
             "name": "Sontar",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Sontar"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Sontar"
         },
         "image": "https://static.wikia.nocookie.net/tardis/images/7/74/Sontarans_troops_%28WOTS%29.jpg/revision/latest/scale-to-width-down/350?cb=20211115235755"
     },
@@ -105,7 +105,7 @@
         "description": "The Zygons were a race of metamorphic humanoids. They originated from the planet Zygor, but often tried to migrate away from it.",
         "placeOfOrigin": {
             "name": "Zygor",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Zygor"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Zygor"
         },
         
         "image": "https://static.wikia.nocookie.net/tardis/images/5/5b/Zygon_in_daylight_widescreen.jpg/revision/latest/scale-to-width-down/350?cb=20131125234046"

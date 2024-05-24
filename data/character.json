@@ -11,7 +11,7 @@
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Gallifrey",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Gallifrey"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Gallifrey"
         },
         "jobs": ["Scrutationary Archivist", "Tutor", "Sheriff"],
         "relationsWithTheDoctor": "Self",
@@ -30,7 +30,7 @@
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Gallifrey",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Gallifrey"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Gallifrey"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Self",
@@ -49,7 +49,7 @@
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Gallifrey",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Gallifrey"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Gallifrey"
         },
         "jobs": ["Scientific advisor"],
         "relationsWithTheDoctor": "Self",
@@ -68,7 +68,7 @@
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Gallifrey",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Gallifrey"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Gallifrey"
         },
         "jobs": ["Taxi driver", "President of the High Council"],
         "relationsWithTheDoctor": "Self",
@@ -87,7 +87,7 @@
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Gallifrey",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Gallifrey"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Gallifrey"
         },
         "jobs": ["Scientific advisor", "Keeper of Traken", "President of the High Council"],
         "relationsWithTheDoctor": "Self",
@@ -106,7 +106,7 @@
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Gallifrey",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Gallifrey"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Gallifrey"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Self",
@@ -125,7 +125,7 @@
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Gallifrey",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Gallifrey"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Gallifrey"
         },
         "jobs": ["Cleaner", "Medic"],
         "relationsWithTheDoctor": "Self",
@@ -144,7 +144,7 @@
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Gallifrey",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Gallifrey"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Gallifrey"
         },
         "jobs": ["Landlord"],
         "relationsWithTheDoctor": "Self",
@@ -163,7 +163,7 @@
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Gallifrey",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Gallifrey"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Gallifrey"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Self",
@@ -182,7 +182,7 @@
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Gallifrey",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Gallifrey"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Gallifrey"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Self",
@@ -201,7 +201,7 @@
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Gallifrey",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Gallifrey"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Gallifrey"
         },
         "jobs": ["Teacher"],
         "relationsWithTheDoctor": "Self",
@@ -220,7 +220,7 @@
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Gallifrey",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Gallifrey"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Gallifrey"
         },
         "jobs": ["King", "Chef", "Executive", "Shop assistant", "Marshal"],
         "relationsWithTheDoctor": "Self",
@@ -239,7 +239,7 @@
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Gallifrey",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Gallifrey"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Gallifrey"
         },
         "jobs": ["Caretaker", "President of Earth", "Lecturer"],
         "relationsWithTheDoctor": "Self",
@@ -258,7 +258,7 @@
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Gallifrey",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Gallifrey"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Gallifrey"
         },
         "jobs": ["Assassian", "Packer"],
         "relationsWithTheDoctor": "Self",
@@ -277,7 +277,7 @@
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Gallifrey",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Gallifrey"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Gallifrey"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Self",
@@ -296,7 +296,7 @@
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Gallifrey",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Gallifrey"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Gallifrey"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Self",
@@ -315,7 +315,7 @@
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Earth"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
         },
         "jobs": ["Shop assistant", "Dinner lady", "Teacher"],
         "relationsWithTheDoctor": "Companion",
@@ -334,7 +334,7 @@
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Earth"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
         },
         "jobs": ["Mechanic", "Conspirecy theorist"],
         "relationsWithTheDoctor": "Companion",
@@ -353,7 +353,7 @@
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Boeshane Peninsula",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Boeshane Peninsula"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Boeshane Peninsula"
         },
         "jobs": ["Time Agent", "Conman", "Barman", "Terrorist"],
         "relationsWithTheDoctor": "Companion",
@@ -372,7 +372,7 @@
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Earth"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
         },
         "jobs": ["Secretary"],
         "relationsWithTheDoctor": "Companion",
@@ -391,7 +391,7 @@
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Earth"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
         },
         "jobs": ["Physician"],
         "relationsWithTheDoctor": "Companion",
@@ -410,7 +410,7 @@
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Earth"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
         },
         "jobs": ["Kissogram", "Model", "Journalist"],
         "relationsWithTheDoctor": "Companion",
@@ -429,7 +429,7 @@
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Earth"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
         },
         "jobs": ["Nurse", "Gladiator", "Bodyguard", "Caesar", "Knight", "Doctor"],
         "relationsWithTheDoctor": "Companion",
@@ -448,7 +448,7 @@
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Earth"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
         },
         "jobs": ["Nanny", "Teacher"],
         "relationsWithTheDoctor": "Companion",
@@ -467,7 +467,7 @@
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Earth"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
         },
         "jobs": ["Dinner lady", "Student"],
         "relationsWithTheDoctor": "Companion",
@@ -486,7 +486,7 @@
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Earth"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
         },
         "jobs": ["Bus driver"],
         "relationsWithTheDoctor": "Companion",
@@ -505,7 +505,7 @@
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Earth"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
         },
         "jobs": ["Warehouse worker"],
         "relationsWithTheDoctor": "Companion",
@@ -524,7 +524,7 @@
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Earth"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
         },
         "jobs": ["Police officer"],
         "relationsWithTheDoctor": "Companion",
@@ -543,7 +543,7 @@
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Earth"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
         },
         "jobs": ["Volunteer"],
         "relationsWithTheDoctor": "Companion",
@@ -562,7 +562,7 @@
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Earth"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
         },
         "jobs": ["Archaeologist", "Detective", "Writer", "Assassian", "Lecturer", "Scientific advisor"],
         "relationsWithTheDoctor": "Companion",
@@ -581,7 +581,7 @@
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Earth"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Friend",
@@ -600,7 +600,7 @@
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Earth"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Friend",
@@ -619,7 +619,7 @@
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Earth"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Friend",
@@ -638,7 +638,7 @@
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Earth"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Friend",
@@ -657,7 +657,7 @@
         "gender": "Unknown",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Earth"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Friend",
@@ -676,7 +676,7 @@
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Earth"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Friend",
@@ -695,7 +695,7 @@
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Sto",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Sto"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Sto"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Friend",
@@ -714,7 +714,7 @@
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Earth"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Friend",
@@ -733,7 +733,7 @@
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Earth"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Friend",
@@ -752,7 +752,7 @@
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Earth"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Neutral",
@@ -771,7 +771,7 @@
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Gallifrey",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Gallifrey"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Gallifrey"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Companion",
@@ -790,7 +790,7 @@
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Gallifrey",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Gallifrey"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Gallifrey"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Self",
@@ -809,7 +809,7 @@
         "gender": "Unknown",
         "placeOfOrigin": {
             "name": "Sontar",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Sontar"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Sontar"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Friend",
@@ -828,7 +828,7 @@
         "gender": "Unknown",
         "placeOfOrigin": {
             "name": "Sontar",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Sontar"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Sontar"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Foe",
@@ -847,7 +847,7 @@
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Crespallion",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Crespallion"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Crespallion"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Neutral",
@@ -866,7 +866,7 @@
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Gamma Forests",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Gamma Forests"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Gamma Forests"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Friend",
@@ -885,7 +885,7 @@
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Earth"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Friend",
@@ -923,7 +923,7 @@
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Earth"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Neutral",
@@ -942,7 +942,7 @@
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Earth"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Friend",
@@ -961,7 +961,7 @@
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Earth"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Friend",
@@ -980,7 +980,7 @@
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Earth"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Companion",
@@ -999,7 +999,7 @@
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Earth"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Companion",
@@ -1018,7 +1018,7 @@
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Earth"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Companion",
@@ -1037,7 +1037,7 @@
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Alzarius",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Alzarius"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Alzarius"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Companion",
@@ -1056,7 +1056,7 @@
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Earth"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Companion",
@@ -1075,7 +1075,7 @@
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Trion",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Trion"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Trion"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Companion",
@@ -1094,7 +1094,7 @@
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Earth"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Companion",
@@ -1113,7 +1113,7 @@
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Traken",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Traken"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Traken"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Companion",
@@ -1132,7 +1132,7 @@
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Gallifrey",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Gallifrey"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Gallifrey"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Companion",
@@ -1151,7 +1151,7 @@
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Earth"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
         },
         "jobs": ["Prime Minister"],
         "relationsWithTheDoctor": "Friend",
@@ -1208,7 +1208,7 @@
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Earth"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
         },
         "jobs": ["Sergeant", "Teacher"],
         "relationsWithTheDoctor": "Neutral",
@@ -1227,7 +1227,7 @@
         "gender": "Unknown",
         "placeOfOrigin": {
             "name": "Skaro",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Skaro"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Skaro"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Neutral",
@@ -1265,7 +1265,7 @@
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Messaline",
-            "link": "https://doctor-who-api.onrender.com/api/locations/?name=Messaline"
+            "link": "https://doctor-who-api.onrender.com/api/location/?name=Messaline"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Friend",

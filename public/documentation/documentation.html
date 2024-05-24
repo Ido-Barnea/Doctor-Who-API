@@ -58,9 +58,9 @@
                         <hr>
                         <pre>
 {
-    'Characters': 'https://doctor-who-api.onrender.com/api/characters',
+    'Characters': 'https://doctor-who-api.onrender.com/api/character',
     'Species': 'https://doctor-who-api.onrender.com/api/species',
-    'Locations': 'https://doctor-who-api.onrender.com/api/locations'
+    'Locations': 'https://doctor-who-api.onrender.com/api/location'
 }
                         </pre>
                     </div>
@@ -157,10 +157,10 @@
                 </div>
                 <div class="sub-section" id="main-content-characters-get-all">
                     <h4>Get All Characters</h4>
-                    <p>You can access the list of characters by using the <mark>/characters</mark> endpoint.</p>
+                    <p>You can access the list of characters by using the <mark>/character</mark> endpoint.</p>
                     <br>
                     <div class="code">
-                        <pre>GET https://doctor-who-api.onrender.com/api/characters</pre>
+                        <pre>GET https://doctor-who-api.onrender.com/api/character</pre>
                         <hr>
                         <pre>
 [
@@ -173,7 +173,7 @@
         "gender":"Male",
         "placeOfOrigin": {
             "name":"Gallifrey",
-            "link":"https://doctor-who-api.onrender.com/api/locations/?name=Gallifrey"
+            "link":"https://doctor-who-api.onrender.com/api/location/?name=Gallifrey"
         },
         "jobs":["Scrutationary Archivist","Tutor","Sheriff"],
         "relationsWithTheDoctor":"Self",
@@ -189,7 +189,7 @@
                     <p>You can get a single character by adding the <mark>id</mark> as a parameter.</p>
                     <br>
                     <div class="code">
-                        <pre>GET https://doctor-who-api.onrender.com/api/characters/21</pre>
+                        <pre>GET https://doctor-who-api.onrender.com/api/character/21</pre>
                         <hr>
                         <pre>
 {
@@ -201,7 +201,7 @@
     "gender":"Female",
     "placeOfOrigin": {
         "name":"Earth",
-        "link":"https://doctor-who-api.onrender.com/api/locations/?name=Earth"
+        "link":"https://doctor-who-api.onrender.com/api/location/?name=Earth"
     },
     "jobs":["Physician"],
     "relationsWithTheDoctor":"Companion",
@@ -242,7 +242,7 @@
                     </ul>
                     <br>
                     <div class="code">
-                        <pre>GET https://doctor-who-api.onrender.com/api/characters/?status=Alive&gender=Female</pre>
+                        <pre>GET https://doctor-who-api.onrender.com/api/character/?status=Alive&gender=Female</pre>
                         <hr>
                         <pre>
 [
@@ -255,7 +255,7 @@
         "gender":"Female",
         "placeOfOrigin": {
             "name":"Earth",
-            "link":"https://doctor-who-api.onrender.com/api/locations/?name=Earth"
+            "link":"https://doctor-who-api.onrender.com/api/location/?name=Earth"
         },
         "jobs":["Shop assistant","Dinner lady","Teacher"],
         "relationsWithTheDoctor":"Companion",
@@ -323,7 +323,7 @@
         "description":"The Daleks were a warrior race made up of genetically engineered mutants belonging to fundamental DNA type 467-989. On many occasions, the Daleks openly acknowledged a single Time Lord, the Doctor, as their greatest enemy.",
         "planetOfOrigin": {
             "name":"Skaro",
-            "link":"https://doctor-who-api.onrender.com/api/locations/?name=Skaro"
+            "link":"https://doctor-who-api.onrender.com/api/location/?name=Skaro"
         },
         "image":"https://static.wikia.nocookie.net/tardis/images/8/8d/Zeg_and_the_Emperor.jpg/revision/latest/scale-to-width-down/350?cb=20210327012145"
     }, ...
@@ -345,7 +345,7 @@
     "description":"The Silurians, also known as Earth Reptiles, Eocenes, reptile people, Psionosauropodomorpha, Homo Reptilicus, Homo reptilia and Reptilia sapiens, were a species native to Earth that pre-dated humanity.",
     "placeOfOrigin": {
         "name":"Earth",
-        "link":"https://doctor-who-api.onrender.com/api/locations/?name=Earth"
+        "link":"https://doctor-who-api.onrender.com/api/location/?name=Earth"
     },
     "image":"https://static.wikia.nocookie.net/tardis/images/b/b5/Wenley_and_Wales.jpg/revision/latest/scale-to-width-down/350?cb=20110703184954"
 }
@@ -410,10 +410,10 @@
                 </div>
                 <div class="sub-section" id="main-content-locations-get-all">
                     <h4>Get All Locations</h4>
-                    <p>You can access the list of locations by using the <mark>/locations</mark> endpoint.</p>
+                    <p>You can access the list of locations by using the <mark>/location</mark> endpoint.</p>
                     <br>
                     <div class="code">
-                        <pre>GET https://doctor-who-api.onrender.com/api/locations</pre>
+                        <pre>GET https://doctor-who-api.onrender.com/api/location</pre>
                         <hr>
                         <pre>
  [
@@ -433,7 +433,7 @@
                     <p>You can get a single location by adding the <mark>id</mark> as a parameter.</p>
                     <br>
                     <div class="code">
-                        <pre>GET https://doctor-who-api.onrender.com/api/locations/10</pre>
+                        <pre>GET https://doctor-who-api.onrender.com/api/location/10</pre>
                         <hr>
                         <pre>
 {
