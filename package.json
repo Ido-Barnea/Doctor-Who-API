@@ -3,8 +3,7 @@
   "description": "A RESTful API for getting information on the famous TV show \"Doctor Who\".",
   "scripts": {
     "build": "webpack --config webpack/webpack.config.ts --env env=prod",
-    "start": "node dist/server.js",
-    "dev": "webpack serve --config webpack/webpack.config.ts --env env=dev"
+    "start": "node dist/bundle.js"
   },
   "keywords": [
     "node",

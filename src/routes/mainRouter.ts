@@ -9,7 +9,7 @@ router.get('/', (req: Request, res: Response) => {
 });
 
 router.get('/documentation', (req: Request, res: Response) => {
-    res.status(200).sendFile(path.join(__dirname, '../../public/documentation/documentation.html'));
+    res.status(200).sendFile(path.join(__dirname, '../public/documentation/documentation.html'));
 });
 
 router.use('/api', apiRouter);

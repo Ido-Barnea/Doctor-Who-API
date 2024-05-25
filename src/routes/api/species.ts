@@ -3,7 +3,7 @@ import { handleDataRequest } from './../../utils/handleDataRequest';
 
 const species = require('../../../data/species.json');
 
-const router = express.Router();
+export const router = express.Router();
 
 router.get('/', (req: Request, res: Response) => {
     handleDataRequest(req, res, species);
@@ -14,5 +14,3 @@ router.get('/:id', (req: Request, res: Response) => {
     if (id < 0 || species.length <= id) res.status(400).json("Unknown Filter.");
     else res.status(200).json(species[id]);
 });
-
-module.exports = router;

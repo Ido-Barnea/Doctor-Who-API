@@ -14,5 +14,3 @@ router.get('/:id', (req: Request, res: Response) => {
     if (id < 0 || locations.length <= id) res.status(400).json("Unknown Filter.");
     else res.status(200).json(locations[id]);
 });
-
-module.exports = router;

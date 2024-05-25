@@ -1,8 +1,8 @@
 import express from 'express';
-const apiRouter = require('./api/index');
-const charactersRouter = require('./api/character');
-const speciesRouter = require('./api/species');
-const locationsRouter = require('./api/location');
+import { router as apiRouter } from './api/index';
+import { router as charactersRouter } from './api/character';
+import { router as speciesRouter } from './api/species';
+import { router as locationsRouter } from './api/location';
 
 export const router = express.Router();
 
