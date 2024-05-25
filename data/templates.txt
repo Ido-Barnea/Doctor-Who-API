@@ -6,12 +6,12 @@ character:
     "status": "", [Alive / Dead / Unknown]
     "species": {
         "name": "", [Species Name / Unknown]
-        "link": "" [Species Link]
+        "endpoint": "" [Species Link]
     },
     "gender": "", [Male / Female / Unknown]
     "placeOfOrigin": {
         "name": "", [Location Name / Unknown]
-        "link": "" [Location Link]
+        "endpoint": "" [Location Link]
     },
     "jobs": [], [Job Name]
     "relationsWithTheDoctor": "", [Companion / Friend / Foe / Neutral / Self]

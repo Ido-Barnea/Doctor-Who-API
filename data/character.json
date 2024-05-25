@@ -6,12 +6,12 @@
         "status": "Dead",
         "species": {
             "name": "Time Lord",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Time Lord"
+            "endpoint": "/species/?name=Time Lord"
         },
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Gallifrey",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Gallifrey"
+            "endpoint": "/location/?name=Gallifrey"
         },
         "jobs": ["Scrutationary Archivist", "Tutor", "Sheriff"],
         "relationsWithTheDoctor": "Self",
@@ -25,12 +25,12 @@
         "status": "Dead",
         "species": {
             "name": "Time Lord",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Time Lord"
+            "endpoint": "/species/?name=Time Lord"
         },
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Gallifrey",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Gallifrey"
+            "endpoint": "/location/?name=Gallifrey"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Self",
@@ -44,12 +44,12 @@
         "status": "Dead",
         "species": {
             "name": "Time Lord",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Time Lord"
+            "endpoint": "/species/?name=Time Lord"
         },
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Gallifrey",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Gallifrey"
+            "endpoint": "/location/?name=Gallifrey"
         },
         "jobs": ["Scientific advisor"],
         "relationsWithTheDoctor": "Self",
@@ -63,12 +63,12 @@
         "status": "Dead",
         "species": {
             "name": "Time Lord",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Time Lord"
+            "endpoint": "/species/?name=Time Lord"
         },
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Gallifrey",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Gallifrey"
+            "endpoint": "/location/?name=Gallifrey"
         },
         "jobs": ["Taxi driver", "President of the High Council"],
         "relationsWithTheDoctor": "Self",
@@ -82,12 +82,12 @@
         "status": "Dead",
         "species": {
             "name": "Time Lord",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Time Lord"
+            "endpoint": "/species/?name=Time Lord"
         },
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Gallifrey",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Gallifrey"
+            "endpoint": "/location/?name=Gallifrey"
         },
         "jobs": ["Scientific advisor", "Keeper of Traken", "President of the High Council"],
         "relationsWithTheDoctor": "Self",
@@ -101,12 +101,12 @@
         "status": "Dead",
         "species": {
             "name": "Time Lord",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Time Lord"
+            "endpoint": "/species/?name=Time Lord"
         },
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Gallifrey",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Gallifrey"
+            "endpoint": "/location/?name=Gallifrey"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Self",
@@ -120,12 +120,12 @@
         "status": "Dead",
         "species": {
             "name": "Time Lord",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Time Lord"
+            "endpoint": "/species/?name=Time Lord"
         },
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Gallifrey",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Gallifrey"
+            "endpoint": "/location/?name=Gallifrey"
         },
         "jobs": ["Cleaner", "Medic"],
         "relationsWithTheDoctor": "Self",
@@ -139,12 +139,12 @@
         "status": "Dead",
         "species": {
             "name": "Time Lord",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Time Lord"
+            "endpoint": "/species/?name=Time Lord"
         },
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Gallifrey",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Gallifrey"
+            "endpoint": "/location/?name=Gallifrey"
         },
         "jobs": ["Landlord"],
         "relationsWithTheDoctor": "Self",
@@ -158,12 +158,12 @@
         "status": "Dead",
         "species": {
             "name": "Time Lord",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Time Lord"
+            "endpoint": "/species/?name=Time Lord"
         },
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Gallifrey",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Gallifrey"
+            "endpoint": "/location/?name=Gallifrey"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Self",
@@ -177,12 +177,12 @@
         "status": "Dead",
         "species":{
             "name": "Time Lord",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Time Lord"
+            "endpoint": "/species/?name=Time Lord"
         },
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Gallifrey",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Gallifrey"
+            "endpoint": "/location/?name=Gallifrey"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Self",
@@ -196,12 +196,12 @@
         "status": "Dead",
         "species": {
             "name": "Time Lord",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Time Lord"
+            "endpoint": "/species/?name=Time Lord"
         },
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Gallifrey",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Gallifrey"
+            "endpoint": "/location/?name=Gallifrey"
         },
         "jobs": ["Teacher"],
         "relationsWithTheDoctor": "Self",
@@ -215,12 +215,12 @@
         "status": "Dead",
         "species": {
             "name": "Time Lord",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Time Lord"
+            "endpoint": "/species/?name=Time Lord"
         },
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Gallifrey",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Gallifrey"
+            "endpoint": "/location/?name=Gallifrey"
         },
         "jobs": ["King", "Chef", "Executive", "Shop assistant", "Marshal"],
         "relationsWithTheDoctor": "Self",
@@ -234,12 +234,12 @@
         "status": "Dead",
         "species": {
             "name": "Time Lord",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Time Lord"
+            "endpoint": "/species/?name=Time Lord"
         },
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Gallifrey",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Gallifrey"
+            "endpoint": "/location/?name=Gallifrey"
         },
         "jobs": ["Caretaker", "President of Earth", "Lecturer"],
         "relationsWithTheDoctor": "Self",
@@ -253,12 +253,12 @@
         "status": "Dead",
         "species": {
             "name": "Time Lord",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Time Lord"
+            "endpoint": "/species/?name=Time Lord"
         },
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Gallifrey",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Gallifrey"
+            "endpoint": "/location/?name=Gallifrey"
         },
         "jobs": ["Assassian", "Packer"],
         "relationsWithTheDoctor": "Self",
@@ -272,12 +272,12 @@
         "status": "Dead",
         "species": {
             "name": "Time Lord",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Time Lord"
+            "endpoint": "/species/?name=Time Lord"
         },
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Gallifrey",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Gallifrey"
+            "endpoint": "/location/?name=Gallifrey"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Self",
@@ -291,12 +291,12 @@
         "status": "Alive",
         "species": {
             "name": "Time Lord",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Time Lord"
+            "endpoint": "/species/?name=Time Lord"
         },
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Gallifrey",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Gallifrey"
+            "endpoint": "/location/?name=Gallifrey"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Self",
@@ -310,12 +310,12 @@
         "status": "Alive",
         "species": {
             "name": "Human",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Human"
+            "endpoint": "/species/?name=Human"
         },
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
+            "endpoint": "/location/?name=Earth"
         },
         "jobs": ["Shop assistant", "Dinner lady", "Teacher"],
         "relationsWithTheDoctor": "Companion",
@@ -329,12 +329,12 @@
         "status": "Alive",
         "species": {
             "name": "Human",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Human"
+            "endpoint": "/species/?name=Human"
         },
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
+            "endpoint": "/location/?name=Earth"
         },
         "jobs": ["Mechanic", "Conspirecy theorist"],
         "relationsWithTheDoctor": "Companion",
@@ -348,12 +348,12 @@
         "status": "Alive",
         "species": {
             "name": "Human",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Human"
+            "endpoint": "/species/?name=Human"
         },
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Boeshane Peninsula",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Boeshane Peninsula"
+            "endpoint": "/location/?name=Boeshane Peninsula"
         },
         "jobs": ["Time Agent", "Conman", "Barman", "Terrorist"],
         "relationsWithTheDoctor": "Companion",
@@ -367,12 +367,12 @@
         "status": "Alive",
         "species": {
             "name": "Human",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Human"
+            "endpoint": "/species/?name=Human"
         },
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
+            "endpoint": "/location/?name=Earth"
         },
         "jobs": ["Secretary"],
         "relationsWithTheDoctor": "Companion",
@@ -386,12 +386,12 @@
         "status": "Alive",
         "species": {
             "name": "Human",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Human"
+            "endpoint": "/species/?name=Human"
         },
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
+            "endpoint": "/location/?name=Earth"
         },
         "jobs": ["Physician"],
         "relationsWithTheDoctor": "Companion",
@@ -405,12 +405,12 @@
         "status": "Dead",
         "species": {
             "name": "Human",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Human"
+            "endpoint": "/species/?name=Human"
         },
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
+            "endpoint": "/location/?name=Earth"
         },
         "jobs": ["Kissogram", "Model", "Journalist"],
         "relationsWithTheDoctor": "Companion",
@@ -424,12 +424,12 @@
         "status": "Dead",
         "species": {
             "name": "Human",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Human"
+            "endpoint": "/species/?name=Human"
         },
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
+            "endpoint": "/location/?name=Earth"
         },
         "jobs": ["Nurse", "Gladiator", "Bodyguard", "Caesar", "Knight", "Doctor"],
         "relationsWithTheDoctor": "Companion",
@@ -443,12 +443,12 @@
         "status": "Dead",
         "species": {
             "name": "Human",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Human"
+            "endpoint": "/species/?name=Human"
         },
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
+            "endpoint": "/location/?name=Earth"
         },
         "jobs": ["Nanny", "Teacher"],
         "relationsWithTheDoctor": "Companion",
@@ -462,12 +462,12 @@
         "status": "Dead",
         "species": {
             "name": "Human",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Human"
+            "endpoint": "/species/?name=Human"
         },
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
+            "endpoint": "/location/?name=Earth"
         },
         "jobs": ["Dinner lady", "Student"],
         "relationsWithTheDoctor": "Companion",
@@ -481,12 +481,12 @@
         "status": "Alive",
         "species": {
             "name": "Human",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Human"
+            "endpoint": "/species/?name=Human"
         },
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
+            "endpoint": "/location/?name=Earth"
         },
         "jobs": ["Bus driver"],
         "relationsWithTheDoctor": "Companion",
@@ -500,12 +500,12 @@
         "status": "Alive",
         "species": {
             "name": "Human",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Human"
+            "endpoint": "/species/?name=Human"
         },
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
+            "endpoint": "/location/?name=Earth"
         },
         "jobs": ["Warehouse worker"],
         "relationsWithTheDoctor": "Companion",
@@ -519,12 +519,12 @@
         "status": "Alive",
         "species": {
             "name": "Human",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Human"
+            "endpoint": "/species/?name=Human"
         },
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
+            "endpoint": "/location/?name=Earth"
         },
         "jobs": ["Police officer"],
         "relationsWithTheDoctor": "Companion",
@@ -538,12 +538,12 @@
         "status": "Alive",
         "species": {
             "name": "Human",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Human"
+            "endpoint": "/species/?name=Human"
         },
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
+            "endpoint": "/location/?name=Earth"
         },
         "jobs": ["Volunteer"],
         "relationsWithTheDoctor": "Companion",
@@ -557,12 +557,12 @@
         "status": "Dead",
         "species": {
             "name": "Human",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Human"
+            "endpoint": "/species/?name=Human"
         },
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
+            "endpoint": "/location/?name=Earth"
         },
         "jobs": ["Archaeologist", "Detective", "Writer", "Assassian", "Lecturer", "Scientific advisor"],
         "relationsWithTheDoctor": "Companion",
@@ -576,12 +576,12 @@
         "status": "Alive",
         "species": {
             "name": "Silurian",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Silurian"
+            "endpoint": "/species/?name=Silurian"
         },
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
+            "endpoint": "/location/?name=Earth"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Friend",
@@ -595,12 +595,12 @@
         "status": "Dead",
         "species": {
             "name": "Human",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Human"
+            "endpoint": "/species/?name=Human"
         },
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
+            "endpoint": "/location/?name=Earth"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Friend",
@@ -614,12 +614,12 @@
         "status": "Dead",
         "species": {
             "name": "Human",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Human"
+            "endpoint": "/species/?name=Human"
         },
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
+            "endpoint": "/location/?name=Earth"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Friend",
@@ -633,12 +633,12 @@
         "status": "Alive",
         "species": {
             "name": "Human",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Human"
+            "endpoint": "/species/?name=Human"
         },
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
+            "endpoint": "/location/?name=Earth"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Friend",
@@ -652,12 +652,12 @@
         "status": "Alive",
         "species": {
             "name": "Robot",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Robot"
+            "endpoint": "/species/?name=Robot"
         },
         "gender": "Unknown",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
+            "endpoint": "/location/?name=Earth"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Friend",
@@ -671,12 +671,12 @@
         "status": "Alive",
         "species": {
             "name": "Human",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Human"
+            "endpoint": "/species/?name=Human"
         },
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
+            "endpoint": "/location/?name=Earth"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Friend",
@@ -690,12 +690,12 @@
         "status": "Dead",
         "species": {
             "name": "Humanoid",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Humanoid"
+            "endpoint": "/species/?name=Humanoid"
         },
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Sto",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Sto"
+            "endpoint": "/location/?name=Sto"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Friend",
@@ -709,12 +709,12 @@
         "status": "Alive",
         "species": {
             "name": "Human",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Human"
+            "endpoint": "/species/?name=Human"
         },
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
+            "endpoint": "/location/?name=Earth"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Friend",
@@ -728,12 +728,12 @@
         "status": "Alive",
         "species": {
             "name": "Human",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Human"
+            "endpoint": "/species/?name=Human"
         },
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
+            "endpoint": "/location/?name=Earth"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Friend",
@@ -747,12 +747,12 @@
         "status": "Dead",
         "species": {
             "name": "Human",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Human"
+            "endpoint": "/species/?name=Human"
         },
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
+            "endpoint": "/location/?name=Earth"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Neutral",
@@ -766,12 +766,12 @@
         "status": "Alive",
         "species": {
             "name": "Human",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Human"
+            "endpoint": "/species/?name=Human"
         },
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Gallifrey",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Gallifrey"
+            "endpoint": "/location/?name=Gallifrey"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Companion",
@@ -785,12 +785,12 @@
         "status": "Dead",
         "species": {
             "name": "Time Lord",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Time Lord"
+            "endpoint": "/species/?name=Time Lord"
         },
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Gallifrey",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Gallifrey"
+            "endpoint": "/location/?name=Gallifrey"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Self",
@@ -804,12 +804,12 @@
         "status": "Alive",
         "species": {
             "name": "Sontaran",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Sontaran"
+            "endpoint": "/species/?name=Sontaran"
         },
         "gender": "Unknown",
         "placeOfOrigin": {
             "name": "Sontar",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Sontar"
+            "endpoint": "/location/?name=Sontar"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Friend",
@@ -823,12 +823,12 @@
         "status": "Dead",
         "species": {
             "name": "Sontaran",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Sontaran"
+            "endpoint": "/species/?name=Sontaran"
         },
         "gender": "Unknown",
         "placeOfOrigin": {
             "name": "Sontar",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Sontar"
+            "endpoint": "/location/?name=Sontar"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Foe",
@@ -842,12 +842,12 @@
         "status": "Dead",
         "species": {
             "name": "Crespallion",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Crespallion"
+            "endpoint": "/species/?name=Crespallion"
         }, 
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Crespallion",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Crespallion"
+            "endpoint": "/location/?name=Crespallion"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Neutral",
@@ -861,12 +861,12 @@
         "status": "Dead",
         "species": {
             "name": "Human",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Human"
+            "endpoint": "/species/?name=Human"
         }, 
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Gamma Forests",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Gamma Forests"
+            "endpoint": "/location/?name=Gamma Forests"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Friend",
@@ -880,12 +880,12 @@
         "status": "Alive",
         "species": {
             "name": "Human",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Human"
+            "endpoint": "/species/?name=Human"
         }, 
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
+            "endpoint": "/location/?name=Earth"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Friend",
@@ -899,12 +899,12 @@
         "status": "Dead",
         "species": {
             "name": "Human",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Human"
+            "endpoint": "/species/?name=Human"
         },  
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Unknown",
-            "link": "Unknown"
+            "endpoint": "Unknown"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Foe",
@@ -918,12 +918,12 @@
         "status": "Alive",
         "species": {
             "name": "Human",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Human"
+            "endpoint": "/species/?name=Human"
         }, 
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
+            "endpoint": "/location/?name=Earth"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Neutral",
@@ -937,12 +937,12 @@
         "status": "Alive",
         "species": {
             "name": "Human",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Human"
+            "endpoint": "/species/?name=Human"
         }, 
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
+            "endpoint": "/location/?name=Earth"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Friend",
@@ -956,12 +956,12 @@
         "status": "Dead",
         "species": {
             "name": "Human",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Human"
+            "endpoint": "/species/?name=Human"
         }, 
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
+            "endpoint": "/location/?name=Earth"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Friend",
@@ -975,12 +975,12 @@
         "status": "Alive",
         "species": {
             "name": "Human",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Human"
+            "endpoint": "/species/?name=Human"
         }, 
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
+            "endpoint": "/location/?name=Earth"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Companion",
@@ -994,12 +994,12 @@
         "status": "Alive",
         "species": {
             "name": "Human",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Human"
+            "endpoint": "/species/?name=Human"
         }, 
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
+            "endpoint": "/location/?name=Earth"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Companion",
@@ -1013,12 +1013,12 @@
         "status": "Dead",
         "species": {
             "name": "Human",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Human"
+            "endpoint": "/species/?name=Human"
         }, 
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
+            "endpoint": "/location/?name=Earth"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Companion",
@@ -1032,12 +1032,12 @@
         "status": "Dead",
         "species": {
             "name": "Alzarian",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Alzarian"
+            "endpoint": "/species/?name=Alzarian"
         },
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Alzarius",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Alzarius"
+            "endpoint": "/location/?name=Alzarius"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Companion",
@@ -1051,12 +1051,12 @@
         "status": "Alive",
         "species": {
             "name": "Human",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Human"
+            "endpoint": "/species/?name=Human"
         },
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
+            "endpoint": "/location/?name=Earth"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Companion",
@@ -1070,12 +1070,12 @@
         "status": "Alive",
         "species": {
             "name": "Trion",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Trion"
+            "endpoint": "/species/?name=Trion"
         },
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Trion",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Trion"
+            "endpoint": "/location/?name=Trion"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Companion",
@@ -1089,12 +1089,12 @@
         "status": "Alive",
         "species": {
             "name": "Human",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Human"
+            "endpoint": "/species/?name=Human"
         },
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
+            "endpoint": "/location/?name=Earth"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Companion",
@@ -1108,12 +1108,12 @@
         "status": "Alive",
         "species": {
             "name": "Trakenite",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Trakenite"
+            "endpoint": "/species/?name=Trakenite"
         },
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Traken",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Traken"
+            "endpoint": "/location/?name=Traken"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Companion",
@@ -1127,12 +1127,12 @@
         "status": "Dead",
         "species": {
             "name": "Time Lord",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Time Lord"
+            "endpoint": "/species/?name=Time Lord"
         },
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Gallifrey",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Gallifrey"
+            "endpoint": "/location/?name=Gallifrey"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Companion",
@@ -1146,12 +1146,12 @@
         "status": "Dead",
         "species": {
             "name": "Human",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Human"
+            "endpoint": "/species/?name=Human"
         }, 
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
+            "endpoint": "/location/?name=Earth"
         },
         "jobs": ["Prime Minister"],
         "relationsWithTheDoctor": "Friend",
@@ -1165,12 +1165,12 @@
         "status": "Alive",
         "species": {
             "name": "Humanoid",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Humanoid"
+            "endpoint": "/species/?name=Humanoid"
         }, 
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Unknown",
-            "link": "Unknown"
+            "endpoint": "Unknown"
         },
         "jobs": ["Bank Manager"],
         "relationsWithTheDoctor": "Neutral",
@@ -1184,12 +1184,12 @@
         "status": "Alive",
         "species": {
             "name": "Unknown",
-            "link": ""
+            "endpoint": ""
         },
         "gender": "Unknown",
         "placeOfOrigin": {
             "name": "Unknown",
-            "link": "Unknown"
+            "endpoint": "Unknown"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Neutral",
@@ -1203,12 +1203,12 @@
         "status": "Dead",
         "species": {
             "name": "Human",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Human"
+            "endpoint": "/species/?name=Human"
         },
         "gender": "Male",
         "placeOfOrigin": {
             "name": "Earth",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Earth"
+            "endpoint": "/location/?name=Earth"
         },
         "jobs": ["Sergeant", "Teacher"],
         "relationsWithTheDoctor": "Neutral",
@@ -1222,12 +1222,12 @@
         "status": "Alive",
         "species": {
             "name": "Dalek",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Dalek"
+            "endpoint": "/species/?name=Dalek"
         },
         "gender": "Unknown",
         "placeOfOrigin": {
             "name": "Skaro",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Skaro"
+            "endpoint": "/location/?name=Skaro"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Neutral",
@@ -1241,12 +1241,12 @@
         "status": "Dead",
         "species": {
             "name": "Cyberman",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Cyberman"
+            "endpoint": "/species/?name=Cyberman"
         },
         "gender": "Unknown",
         "placeOfOrigin": {
             "name": "Unknown",
-            "link": "Unknown"
+            "endpoint": "Unknown"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Friend",
@@ -1260,12 +1260,12 @@
         "status": "Alive",
         "species": {
             "name": "Time Lord",
-            "link": "https://doctor-who-api.onrender.com/api/species/?name=Time Lord"
+            "endpoint": "/species/?name=Time Lord"
         },
         "gender": "Female",
         "placeOfOrigin": {
             "name": "Messaline",
-            "link": "https://doctor-who-api.onrender.com/api/location/?name=Messaline"
+            "endpoint": "/location/?name=Messaline"
         },
         "jobs": [],
         "relationsWithTheDoctor": "Friend",
